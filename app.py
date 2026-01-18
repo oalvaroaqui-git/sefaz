@@ -65,17 +65,20 @@ st.dataframe(df_schedule)
 st.header("📖 Edital Verticalizado")
 
 # ======= CARREGAR DO BANCO =======
-# Configuração do conector SQL (exemplo para Databricks/SQL Server/PostgreSQL)
+# Configuracao do conector SQL (exemplo para Databricks/SQL Server/PostgreSQL)
 # Substitua: 'dialect+driver://user:password@host:port/database'
 # Exemplo Databricks: 'databricks+pyodbc://token:<TOKEN>@<HOST>:443/default?driver=ODBC+Driver+17+for+SQL+Server'
 connection_string = "seu_dialeto+driver://usuario:senha@host:porta/database"
-engine = create_engine(connection_string)
+engine = None
+if "seu_dialeto+driver://" not in connection_string:
+    engine = create_engine(connection_string)
 
 @st.cache_data(ttl=600)  # Cache por 10 minutos
 def load_syllabus():
-    query = "SELECT * FROM workspace.db_sefaz25"
-    df = pd.read_sql(query, engine)
-    return df
+    if engine is not None:
+        query = "SELECT * FROM workspace.db_sefaz25"
+        return pd.read_sql(query, engine)
+    return pd.read_csv("syllabus.csv", sep="|")
 
 if "syllabus" not in st.session_state:
     st.session_state.syllabus = load_syllabus()
