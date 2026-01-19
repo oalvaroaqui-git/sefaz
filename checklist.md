@@ -1,0 +1,168 @@
+Checklist - SEFAZ/SC 2018 (Auditor Fiscal)
+
+## Prova 1 - Conhecimentos Gerais
+- [x] LINGUA PORTUGUESA
+  - [x] Classes de palavras
+  - [x] Concordancia e regencia
+  - [x] Interpretacao e gramatica
+  - [x] Redacao
+  - [x] Semantica
+  - [x] Sintaxe
+  - [x] Vozes verbais
+- [x] RACIOCINIO CRITICO, LOGICO E ESTATISTICA
+  - [x] Avaliacao de argumentos
+  - [x] Construcao de argumentos
+  - [x] Correlacao e regressao
+  - [x] Estatistica descritiva
+  - [x] Inferencia e amostragem
+  - [x] Intervalos e testes
+  - [x] Plano de acao
+  - [x] Probabilidades
+  - [x] Raciocinio critico
+  - [x] Raciocinio logico
+- [x] ECONOMIA E FINANCAS PUBLICAS
+  - [x] Bens publicos e recursos comuns
+  - [x] Economia aberta
+  - [x] Economia da tributacao
+  - [x] Estruturas de mercado
+  - [x] Financas publicas e federalismo
+  - [x] IS-LM e politica economica
+  - [x] Incidencia e politica tributaria
+  - [x] Macroeconomia
+  - [x] Mercado monetario e financeiro
+  - [x] Microeconomia
+  - [x] Teoria da producao
+  - [x] Tributacao e eficiencia
+- [x] DIREITO CONSTITUCIONAL I
+  - [x] ADCT e Constituicao Estadual
+  - [x] Controle de constitucionalidade
+  - [x] Defesa do Estado e seguranca
+  - [x] Direito constitucional e normas
+  - [x] Direitos e garantias
+  - [x] Funcoes essenciais a justica
+  - [x] Hermenautica constitucional
+  - [x] Ordem economica e social
+  - [x] Organizacao do Estado
+  - [x] Organizacao dos poderes
+  - [x] Poder Constituinte e federalismo
+  - [x] Remedios constitucionais
+  - [x] Teoria do Estado e constitucionalismo
+  - [x] Tributacao e orcamento
+- [x] DIREITO ADMINISTRATIVO I
+  - [x] Agentes publicos
+  - [x] Atos administrativos
+  - [x] Competencia administrativa
+  - [x] Controle e improbidade
+  - [x] Fundamentos
+  - [x] Legislacao estadual
+  - [x] Nulidades e extincao
+  - [x] Organizacao administrativa
+  - [x] Parcerias e intervencao
+  - [x] Poderes da administracao
+  - [x] Responsabilidade do Estado
+  - [x] Servicos publicos
+- [x] DIREITO CIVIL, EMPRESARIAL E PENAL
+  - [x] Direito civil - bases
+  - [x] Direito civil - coisas, familia e sucessoes
+  - [x] Direito civil - fatos e negocios
+  - [x] Direito civil - obrigacoes e contratos
+  - [x] Direito civil - pessoas e bens
+  - [x] Direito empresarial
+  - [x] Direito penal
+
+## Prova 2 - Conhecimentos Basicos
+- [x] CONTABILIDADE GERAL
+  - [x] Ativos e passivos
+  - [x] Balancete e resultado
+  - [x] Demonstracoes contabeis
+  - [x] Escrituracao
+  - [x] Estrutura conceitual e patrimonio
+  - [x] Operacoes e variacoes
+  - [x] Patrimonio liquido
+  - [x] Receitas e despesas antecipadas
+- [x] DIREITO TRIBUTARIO I
+  - [x] CTN - normas gerais
+  - [x] Credito tributario
+  - [x] Legislacao complementar
+  - [x] Obrigacao e responsabilidade
+  - [x] Sistema Tributario Nacional
+- [x] LEGISLACAO TRIBUTARIA DE SANTA CATARINA I
+  - [x] Ajuste SINIEF
+  - [x] Direitos e deveres do contribuinte
+  - [x] ICMS
+  - [x] IPVA
+  - [x] ITCMD
+  - [x] Infractions e penalidades
+  - [x] Normas gerais
+  - [x] Resolucoes do Senado
+  - [x] Taxas
+  - [x] Tribunal Administrativo Tributario
+
+## Prova 3 - A01 Auditoria e Fiscalizacao
+- [x] AUDITORIA TRIBUTARIA
+  - [x] Auditoria no ativo
+  - [x] Auditoria no passivo e PL
+  - [x] Base normativa
+  - [x] Controle e infracoes
+  - [x] EFD e NFe
+  - [x] Fraudes e demonstracoes
+  - [x] Procedimentos e testes
+  - [x] Resultado e escrita fiscal
+  - [x] Sigilo bancario
+- [x] CONTABILIDADE AVANCADA E DE CUSTOS
+  - [x] Contabilidade avancada
+  - [x] Contabilidade de custos
+- [x] LEGISLACAO TRIBUTARIA DE SANTA CATARINA II
+  - [x] Normas gerais e TAT
+  - [x] RICMS-SC e anexos
+- [x] TI APLICADA A AUDITORIA TRIBUTARIA
+  - [x] DW e BI
+  - [x] EFD e NFe
+  - [x] SGBD e modelagem
+  - [x] SQL basico
+
+## Prova 3 - B02 Gestao Tributaria
+- [x] LEGISLACAO TRIBUTARIA DE SANTA CATARINA II
+  - [x] ITCMD e IPVA
+  - [x] RICMS-SC e anexos
+  - [x] Taxas e normas gerais
+  - [x] Tribunal Administrativo Tributario
+- [x] DIREITO TRIBUTARIO II
+  - [x] Fundamentos e fontes
+  - [x] Garantias e administracao
+  - [x] Legislacao complementar
+  - [x] Norma tributaria e legalidade
+  - [x] Obrigacao, credito e responsabilidade
+  - [x] Politica fiscal e interpretacao
+  - [x] Sistema Tributario Nacional
+- [x] DIREITO PROCESSUAL TRIBUTARIO
+  - [x] Principios e processo administrativo
+  - [x] Processo administrativo em SC
+  - [x] Processo judicial tributario
+- [x] DIREITO PROCESSUAL CIVIL
+  - [x] Acoes e pressupostos
+  - [x] Atos processuais
+  - [x] Mandado de seguranca
+  - [x] Recursos e execucao
+  - [x] Teoria geral e normas
+  - [x] Tutela provisoria e provas
+- [x] DIREITO CIVIL E EMPRESARIAL II
+  - [x] Direito civil
+  - [x] Direito empresarial
+- [x] DIREITO ADMINISTRATIVO II E CONSTITUCIONAL II
+  - [x] Direito administrativo II
+  - [x] Direito constitucional II
+
+## Prova 3 - C03 Tecnologia da Informacao
+- [x] LEGISLACAO TRIBUTARIA DE SANTA CATARINA II
+  - [x] Aspectos legais
+- [x] TECNOLOGIAS DA INFORMACAO
+  - [x] Banco de dados Oracle
+  - [x] Ciencia de dados e BI
+  - [x] Cloud e virtualizacao
+  - [x] Programacao e engenharia
+  - [x] Redes e infraestrutura
+  - [x] Requisitos
+  - [x] Seguranca da informacao
+  - [x] Teste e qualidade
+

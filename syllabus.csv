@@ -1,511 +1,136 @@
 codigo|grupo|area|subarea|assunto|concluido
-1|Geral|LÍNGUA PORTUGUESA|Compreensão e interpretação de textos de gêneros variados|-|False
-2|Geral|LÍNGUA PORTUGUESA|Reconhecimento de tipos e gêneros textuais|-|False
-3|Geral|LÍNGUA PORTUGUESA|Domínio da ortografia oficial|-|False
-4|Geral|LÍNGUA PORTUGUESA|Domínio dos mecanismos de coesão textual|Emprego de elementos de referenciação, substituição e repetição, de conectores e de outros elementos de sequenciação textual|False
-4.2|Geral|LÍNGUA PORTUGUESA|Domínio dos mecanismos de coesão textual|Emprego de tempos e modos verbais|False
-5|Geral|LÍNGUA PORTUGUESA|Domínio da estrutura morfossintática do período|-|False
-5.1|Geral|LÍNGUA PORTUGUESA|Domínio da estrutura morfossintática do período|Emprego das classes de palavras|False
-5.2|Geral|LÍNGUA PORTUGUESA|Domínio da estrutura morfossintática do período|Relações de coordenação entre orações e entre termos da oração|False
-5.3|Geral|LÍNGUA PORTUGUESA|Domínio da estrutura morfossintática do período|Relações de subordinação entre orações e entre termos da oração|False
-5.4|Geral|LÍNGUA PORTUGUESA|Domínio da estrutura morfossintática do período|Emprego dos sinais de pontuação|False
-5.5|Geral|LÍNGUA PORTUGUESA|Domínio da estrutura morfossintática do período|Concordância verbal e nominal|False
-5.6|Geral|LÍNGUA PORTUGUESA|Domínio da estrutura morfossintática do período|Regência verbal e nominal|False
-5.7|Geral|LÍNGUA PORTUGUESA|Domínio da estrutura morfossintática do período|Emprego do sinal indicativo de crase|False
-5.8|Geral|LÍNGUA PORTUGUESA|Domínio da estrutura morfossintática do período|Colocação dos pronomes átonos|False
-6|Geral|LÍNGUA PORTUGUESA|Reescrita de frases e parágrafos do texto|-|False
-6.1|Geral|LÍNGUA PORTUGUESA|Reescrita de frases e parágrafos do texto|Significação das palavras|False
-6.2|Geral|LÍNGUA PORTUGUESA|Reescrita de frases e parágrafos do texto|Substituição de palavras ou de trechos de texto|False
-6.3|Geral|LÍNGUA PORTUGUESA|Reescrita de frases e parágrafos do texto|Reorganização da estrutura de orações e de períodos do texto|False
-6.4|Geral|LÍNGUA PORTUGUESA|Reescrita de frases e parágrafos do texto|Reescrita de textos de diferentes gêneros e níveis de formalidade|False
-1|Geral|CONHECIMENTOS SOBRE O ESTADO DE SERGIPE|Indígenas em Sergipe|-|False
-2|Geral|CONHECIMENTOS SOBRE O ESTADO DE SERGIPE|Processo de ocupação e povoamento do território sergipano|-|False
-3|Geral|CONHECIMENTOS SOBRE O ESTADO DE SERGIPE|Economias fundadoras|-|False
-4|Geral|CONHECIMENTOS SOBRE O ESTADO DE SERGIPE|Regiões geoeconômicas|-|False
-5|Geral|CONHECIMENTOS SOBRE O ESTADO DE SERGIPE|Estrutura do poder e a sociedade colonial sergipana|-|False
-6|Geral|CONHECIMENTOS SOBRE O ESTADO DE SERGIPE|Sergipe nas sucessivas fases da República Brasileira|-|False
-7|Geral|CONHECIMENTOS SOBRE O ESTADO DE SERGIPE|Condicionantes geoambientais (clima, recursos minerais, relevo e solo, recursos hídricos, vegetação)|-|False
-8|Geral|CONHECIMENTOS SOBRE O ESTADO DE SERGIPE|Dinâmica populacional|-|False
-9|Geral|CONHECIMENTOS SOBRE O ESTADO DE SERGIPE|Rede urbana e organização do espaço|-|False
-10|Geral|CONHECIMENTOS SOBRE O ESTADO DE SERGIPE|Formação metropolitana de Aracaju|-|False
-11|Geral|CONHECIMENTOS SOBRE O ESTADO DE SERGIPE|Política, sociedade e economia no Sergipe contemporâneo|-|False
-12|Geral|CONHECIMENTOS SOBRE O ESTADO DE SERGIPE|Potencialidades e perspectivas para o desenvolvimento econômico e social|-|False
-13|Geral|CONHECIMENTOS SOBRE O ESTADO DE SERGIPE|Formação e expressão da cultura sergipana|-|False
-14|Geral|CONHECIMENTOS SOBRE O ESTADO DE SERGIPE|Educação em Sergipe|-|False
-1|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|NOÇÕES DE RACIOCÍNIO LÓGICO|Estruturas lógicas|False
-2|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|NOÇÕES DE RACIOCÍNIO LÓGICO|Lógica de argumentação: analogias, inferências, deduções e conclusões|False
-3|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|NOÇÕES DE RACIOCÍNIO LÓGICO|Lógica sentencial (ou proposicional)|False
-3.1|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|Lógica sentencial|Proposições simples e compostas|False
-3.2|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|Lógica sentencial|Tabelas-verdade|False
-3.3|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|Lógica sentencial|Equivalências|False
-3.4|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|Lógica sentencial|Leis de Morgan|False
-3.5|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|Lógica sentencial|Diagramas lógicos|False
-4|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|NOÇÕES DE RACIOCÍNIO LÓGICO|Lógica de primeira ordem|False
-5|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|NOÇÕES DE RACIOCÍNIO LÓGICO|Princípios de contagem e probabilidade|False
-6|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|NOÇÕES DE RACIOCÍNIO LÓGICO|Operações com conjuntos|False
-7|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|NOÇÕES DE RACIOCÍNIO LÓGICO|Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais|False
-8|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|MATEMÁTICA FINANCEIRA|Regra de três simples e composta, proporcionalidades e porcentagens|False
-9|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|MATEMÁTICA FINANCEIRA|Juros simples e compostos|False
-10|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|MATEMÁTICA FINANCEIRA|Capitalização e desconto|False
-11|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|MATEMÁTICA FINANCEIRA|Taxas de juros nominal, efetiva, equivalente, real e aparente|False
-12|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|MATEMÁTICA FINANCEIRA|Rendas uniformes e variáveis|False
-13|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|MATEMÁTICA FINANCEIRA|Planos de amortização de empréstimos e financiamentos|False
-13.1|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|Planos de amortização|Sistema francês (tabela Price)|False
-13.2|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|Planos de amortização|Sistema de amortização constante (SAC)|False
-13.3|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|Planos de amortização|Sistema de amortização misto (SAM)|False
-14|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|MATEMÁTICA FINANCEIRA|Cálculo financeiro|False
-14.1|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|Cálculo financeiro|Custo real e efetivo das operações de financiamento, empréstimo e investimento|False
-15|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|MATEMÁTICA FINANCEIRA|Avaliação econômica de projetos|False
-16|Geral Especifico|NOÇÕES DE RACIOCÍNIO LÓGICO E MATEMÁTICA FINANCEIRA|MATEMÁTICA FINANCEIRA|Taxas de retorno e taxas internas de retorno|False
-1|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|O papel do Estado e a atuação do governo nas finanças públicas|-|False
-1.1|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|O papel do Estado|Formas e dimensões da intervenção da administração na economia|False
-1.2|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|O papel do Estado|Funções do orçamento público|False
-2|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Orçamento público|-|False
-2.1|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Orçamento público|Conceito|False
-2.2|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Orçamento público|Técnicas orçamentárias|False
-2.3|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Orçamento público|Princípios orçamentários|False
-2.4|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Orçamento público|Ciclo orçamentário|False
-2.5|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Orçamento público|Processo orçamentário|False
-3|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|O orçamento público no Brasil|-|False
-3.1|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|O orçamento público no Brasil|Sistema de planejamento e de orçamento federal|False
-3.2|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|O orçamento público no Brasil|Plano plurianual|False
-3.3|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|O orçamento público no Brasil|Diretrizes orçamentárias|False
-3.4|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|O orçamento público no Brasil|Orçamento anual|False
-3.5|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|O orçamento público no Brasil|Outros planos e programas|False
-3.6|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|O orçamento público no Brasil|Sistema e processo de orçamentação|False
-3.7|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|O orçamento público no Brasil|Classificações orçamentárias|False
-3.8|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|O orçamento público no Brasil|Estrutura programática|False
-3.9|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|O orçamento público no Brasil|Créditos ordinários e adicionais|False
-4|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Programação e execução orçamentária e financeira|-|False
-4.1|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Programação e execução orçamentária|Descentralização orçamentária e financeira|False
-4.2|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Programação e execução orçamentária|Acompanhamento da execução|False
-4.3|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Programação e execução orçamentária|Sistemas de informações|False
-4.4|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Programação e execução orçamentária|Alterações orçamentárias|False
-5|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Receita pública|-|False
-5.1|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Receita pública|Conceito e classificações|False
-5.2|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Receita pública|Estágios|False
-5.3|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Receita pública|Fontes|False
-5.4|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Receita pública|Dívida ativa|False
-6|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Despesa pública|-|False
-6.1|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Despesa pública|Conceito e classificações|False
-6.2|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Despesa pública|Estágios|False
-6.3|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Despesa pública|Restos a pagar|False
-6.4|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Despesa pública|Despesas de exercícios anteriores|False
-6.5|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Despesa pública|Dívida flutuante e fundada|False
-6.6|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Despesa pública|Suprimento de fundos|False
-7|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Lei de Responsabilidade Fiscal|-|False
-7.1|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Lei de Responsabilidade Fiscal|Conceitos e objetivos|False
-7.2|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Lei de Responsabilidade Fiscal|Planejamento|False
-7.3|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Lei de Responsabilidade Fiscal|Receita Pública|False
-7.4|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Lei de Responsabilidade Fiscal|Despesa Pública|False
-7.5|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Lei de Responsabilidade Fiscal|Dívida e endividamento|False
-7.6|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Lei de Responsabilidade Fiscal|Transparência, controle e fiscalização|False
-8|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Termo de execução descentralizada, convênios, termo de referência e relatório de cumprimento de objeto|-|False
-9|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Tesouro Gerencial|-|False
-10|Geral Especifico|ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA|Decretos de Programação Orçamentária e Financeira (DPOF)|-|False
-1|Geral Especifico|DIREITO TRIBUTÁRIO|Sistema Tributário Nacional|Princípios Gerais. Limitações do Poder de Tributar|False
-2|Geral Especifico|DIREITO TRIBUTÁRIO|Direito tributário|Conceito e princípios|False
-3|Geral Especifico|DIREITO TRIBUTÁRIO|Tributos|Conceito e espécies: Impostos, Taxas, Contribuição de Melhoria, Imunidades|False
-3.1|Geral Especifico|DIREITO TRIBUTÁRIO|Tributos|Impostos da União|False
-3.2|Geral Especifico|DIREITO TRIBUTÁRIO|Tributos|Impostos dos estados e do Distrito Federal|False
-3.3|Geral Especifico|DIREITO TRIBUTÁRIO|Tributos|Impostos dos municípios|False
-4|Geral Especifico|DIREITO TRIBUTÁRIO|Repartição das receitas tributárias|-|False
-5|Geral Especifico|DIREITO TRIBUTÁRIO|Código Tributário Nacional|Competência tributária e suas limitações. Normas gerais de direito tributário. Norma tributária: espécies; vigência e aplicação; interpretação e integração; natureza|False
-6|Geral Especifico|DIREITO TRIBUTÁRIO|Obrigação tributária|Conceito; espécies; fato gerador (hipótese de incidência); sujeitos ativo e passivo; solidariedade; capacidade tributária; domicílio tributário|False
-7|Geral Especifico|DIREITO TRIBUTÁRIO|Responsabilidade tributária|Responsabilidade dos Sucessores. Solidariedade e sucessão. Responsabilidade pessoal e de terceiros. Responsabilidade por infrações. Responsabilidade supletiva|False
-8|Geral Especifico|DIREITO TRIBUTÁRIO|Crédito tributário|Conceito; natureza; lançamento e suas modalidades; revisão, suspensão, extinção e exclusão; prescrição e decadência; repetição do indébito|False
-9|Geral Especifico|DIREITO TRIBUTÁRIO|Garantias e privilégios|Crédito tributário|False
-10|Geral Especifico|DIREITO TRIBUTÁRIO|Administração Tributária|Fiscalização. Sigilo Fiscal. Dívida Ativa. Certidões Negativas|False
-11|Geral Especifico|DIREITO TRIBUTÁRIO|Lei Complementar nº 118, de 2005|-|False
-12|Geral Especifico|DIREITO TRIBUTÁRIO|Reforma Tributária|EC nº 132/2023 e LC nº 214/2025|False
-1|Geral Especifico|CONTABILIDADE GERAL|Conceitos, objetivos e finalidades da contabilidade|-|False
-2|Geral Especifico|CONTABILIDADE GERAL|Patrimônio: componentes, equação fundamental do patrimônio, situação líquida, representação gráfica|-|False
-3|Geral Especifico|CONTABILIDADE GERAL|Atos e fatos administrativos: conceitos, fatos permutativos, modificativos e mistos|-|False
-4|Geral Especifico|CONTABILIDADE GERAL|Contas: conceitos, contas de débitos, contas de créditos e saldos|-|False
-5|Geral Especifico|CONTABILIDADE GERAL|Plano de contas: conceitos, elenco de contas, função e funcionamento das contas|-|False
-6|Geral Especifico|CONTABILIDADE GERAL|Escrituração: conceitos, lançamentos contábeis, elementos essenciais, fórmulas de lançamentos, livros de escrituração, métodos e processos, regime de competência e regime de caixa|-|False
-7|Geral Especifico|CONTABILIDADE GERAL|Contabilização de operações contábeis diversas: juros, descontos, tributos, aluguéis, variação monetária/cambial, folha de pagamento, compras, vendas e provisões, depreciações e baixa de bens|-|False
-8|Geral Especifico|CONTABILIDADE GERAL|Balancete de verificação: conceitos, modelos e técnicas de elaboração|-|False
-9|Geral Especifico|CONTABILIDADE GERAL|Balanço patrimonial: conceitos, objetivo, composição|-|False
-10|Geral Especifico|CONTABILIDADE GERAL|Demonstração de resultado de exercício: conceito, objetivo, composição|-|False
-11|Geral Especifico|CONTABILIDADE GERAL|Normas Brasileiras de Contabilidade|-|False
-1|Geral Especifico|CONTABILIDADE DE CUSTOS|Conceitos gerais|Terminologia aplicável à contabilidade de custos|False
-2|Geral Especifico|CONTABILIDADE DE CUSTOS|Conceitos e classificação|Dos custos|False
-3|Geral Especifico|CONTABILIDADE DE CUSTOS|Apropriação dos custos|À produção|False
-3.1|Geral Especifico|CONTABILIDADE DE CUSTOS|Apropriação dos custos|Conceito e critérios de atribuição dos custos|False
-4|Geral Especifico|CONTABILIDADE DE CUSTOS|Departamentalização|-|False
-4.1|Geral Especifico|CONTABILIDADE DE CUSTOS|Departamentalização|Conceito, tratamento contábil, forma de apropriação e impacto no custo do produto|False
-5|Geral Especifico|CONTABILIDADE DE CUSTOS|Tipos de custeio|Conceitos, diferenciações, apropriação dos custos, impactos nos resultados|False
-6|Geral Especifico|CONTABILIDADE DE CUSTOS|Tópicos Especiais|Contabilidade Aplicada ao Setor Público|False
-6.1|Geral Especifico|CONTABILIDADE DE CUSTOS|Tópicos Especiais|Custos no setor público: NBC TSP 34|False
-1|Geral Especifico|DIREITO ADMINISTRATIVO|Estado, governo e administração pública|-|False
-1.1|Geral Especifico|DIREITO ADMINISTRATIVO|Estado, governo e administração pública|Conceitos|False
-1.2|Geral Especifico|DIREITO ADMINISTRATIVO|Estado, governo e administração pública|Elementos|False
-2|Geral Especifico|DIREITO ADMINISTRATIVO|Direito administrativo|-|False
-2.1|Geral Especifico|DIREITO ADMINISTRATIVO|Direito administrativo|Conceito|False
-2.2|Geral Especifico|DIREITO ADMINISTRATIVO|Direito administrativo|Objeto|False
-2.3|Geral Especifico|DIREITO ADMINISTRATIVO|Direito administrativo|Fontes|False
-3|Geral Especifico|DIREITO ADMINISTRATIVO|Ato administrativo|-|False
-3.1|Geral Especifico|DIREITO ADMINISTRATIVO|Ato administrativo|Conceito, requisitos, atributos, classificação e espécies|False
-3.2|Geral Especifico|DIREITO ADMINISTRATIVO|Ato administrativo|Extinção do ato administrativo|False
-3.2.1|Geral Especifico|DIREITO ADMINISTRATIVO|Extinção do ato administrativo|Cassação, anulação, revogação e convalidação|False
-3.3|Geral Especifico|DIREITO ADMINISTRATIVO|Ato administrativo|Decadência administrativa|False
-4|Geral Especifico|DIREITO ADMINISTRATIVO|Agentes públicos|-|False
-4.1|Geral Especifico|DIREITO ADMINISTRATIVO|Agentes públicos|Disposições constitucionais aplicáveis|False
-4.2|Geral Especifico|DIREITO ADMINISTRATIVO|Disposições doutrinárias|-|False
-4.2.1|Geral Especifico|DIREITO ADMINISTRATIVO|Disposições doutrinárias|Conceito|False
-4.2.2|Geral Especifico|DIREITO ADMINISTRATIVO|Disposições doutrinárias|Espécies|False
-4.2.3|Geral Especifico|DIREITO ADMINISTRATIVO|Disposições doutrinárias|Cargo, emprego e função pública|False
-4.2.4|Geral Especifico|DIREITO ADMINISTRATIVO|Disposições doutrinárias|Provimento|False
-4.2.5|Geral Especifico|DIREITO ADMINISTRATIVO|Disposições doutrinárias|Vacância|False
-4.2.6|Geral Especifico|DIREITO ADMINISTRATIVO|Disposições doutrinárias|Efetividade, estabilidade e vitaliciedade|False
-4.2.7|Geral Especifico|DIREITO ADMINISTRATIVO|Disposições doutrinárias|Remuneração|False
-4.2.8|Geral Especifico|DIREITO ADMINISTRATIVO|Disposições doutrinárias|Direitos e deveres|False
-4.2.9|Geral Especifico|DIREITO ADMINISTRATIVO|Disposições doutrinárias|Responsabilidade|False
-4.2.10|Geral Especifico|DIREITO ADMINISTRATIVO|Disposições doutrinárias|Processo administrativo disciplinar|False
-5|Geral Especifico|DIREITO ADMINISTRATIVO|Poderes da administração pública|-|False
-5.1|Geral Especifico|DIREITO ADMINISTRATIVO|Poderes da administração pública|Hierárquico, disciplinar, regulamentar e de polícia|False
-5.2|Geral Especifico|DIREITO ADMINISTRATIVO|Poderes da administração pública|Uso e abuso do poder|False
-6|Geral Especifico|DIREITO ADMINISTRATIVO|Regime jurídico-administrativo|-|False
-6.1|Geral Especifico|DIREITO ADMINISTRATIVO|Regime jurídico-administrativo|Conceito|False
-6.2|Geral Especifico|DIREITO ADMINISTRATIVO|Regime jurídico-administrativo|Princípios expressos e implícitos da administração pública|False
-7|Geral Especifico|DIREITO ADMINISTRATIVO|Responsabilidade civil do Estado|-|False
-7.1|Geral Especifico|DIREITO ADMINISTRATIVO|Responsabilidade civil do Estado|Evolução histórica|False
-7.2|Geral Especifico|DIREITO ADMINISTRATIVO|Responsabilidade civil do Estado|Responsabilidade civil do Estado no direito brasileiro|False
-7.2.1|Geral Especifico|DIREITO ADMINISTRATIVO|Responsabilidade civil do Estado|Responsabilidade por ato comissivo do Estado|False
-7.2.2|Geral Especifico|DIREITO ADMINISTRATIVO|Responsabilidade civil do Estado|Responsabilidade por omissão do Estado|False
-7.3|Geral Especifico|DIREITO ADMINISTRATIVO|Responsabilidade civil do Estado|Requisitos para a demonstração da responsabilidade do Estado|False
-7.4|Geral Especifico|DIREITO ADMINISTRATIVO|Responsabilidade civil do Estado|Causas excludentes e atenuantes da responsabilidade do Estado|False
-7.5|Geral Especifico|DIREITO ADMINISTRATIVO|Responsabilidade civil do Estado|Reparação do dano|False
-7.6|Geral Especifico|DIREITO ADMINISTRATIVO|Responsabilidade civil do Estado|Direito de regresso|False
-8|Geral Especifico|DIREITO ADMINISTRATIVO|Serviços públicos|-|False
-8.1|Geral Especifico|DIREITO ADMINISTRATIVO|Serviços públicos|Conceito|False
-8.2|Geral Especifico|DIREITO ADMINISTRATIVO|Serviços públicos|Elementos constitutivos|False
-8.3|Geral Especifico|DIREITO ADMINISTRATIVO|Serviços públicos|Formas de prestação e meios de execução|False
-8.4|Geral Especifico|DIREITO ADMINISTRATIVO|Serviços públicos|Delegação|False
-8.4.1|Geral Especifico|DIREITO ADMINISTRATIVO|Delegação|Concessão, permissão e autorização|False
-8.5|Geral Especifico|DIREITO ADMINISTRATIVO|Serviços públicos|Classificação|False
-8.6|Geral Especifico|DIREITO ADMINISTRATIVO|Serviços públicos|Princípios|False
-9|Geral Especifico|DIREITO ADMINISTRATIVO|Organização administrativa|-|False
-9.1|Geral Especifico|DIREITO ADMINISTRATIVO|Organização administrativa|Centralização, descentralização, concentração e desconcentração|False
-9.2|Geral Especifico|DIREITO ADMINISTRATIVO|Organização administrativa|Administração direta e indireta|False
-9.3|Geral Especifico|DIREITO ADMINISTRATIVO|Organização administrativa|Autarquias, fundações, empresas públicas e sociedades de economia mista|False
-9.4|Geral Especifico|DIREITO ADMINISTRATIVO|Organização administrativa|Entidades paraestatais e terceiro setor|False
-9.4.1|Geral Especifico|DIREITO ADMINISTRATIVO|Organização administrativa|Serviços sociais autônomos, entidades de apoio, organizações sociais, organizações da sociedade civil de interesse público|False
-10|Geral Especifico|DIREITO ADMINISTRATIVO|Controle da administração pública|-|False
-10.1|Geral Especifico|DIREITO ADMINISTRATIVO|Controle da administração pública|Controle exercido pela administração pública|False
-10.2|Geral Especifico|DIREITO ADMINISTRATIVO|Controle da administração pública|Controle judicial|False
-10.3|Geral Especifico|DIREITO ADMINISTRATIVO|Controle da administração pública|Controle legislativo|False
-10.4|Geral Especifico|DIREITO ADMINISTRATIVO|Controle da administração pública|Improbidade administrativa|False
-10.4.1|Geral Especifico|DIREITO ADMINISTRATIVO|Controle da administração pública|Lei nº 8.429/1992 e suas alterações|False
-11|Geral Especifico|DIREITO ADMINISTRATIVO|Processo administrativo|-|False
-11.1|Geral Especifico|DIREITO ADMINISTRATIVO|Processo administrativo|Lei Complementar Estadual nº 33/96 e suas alterações|False
-12|Geral Especifico|DIREITO ADMINISTRATIVO|Licitações e contratos administrativos|-|False
-12.1|Geral Especifico|DIREITO ADMINISTRATIVO|Licitações e contratos administrativos|Legislação pertinente|False
-12.1.1|Geral Especifico|DIREITO ADMINISTRATIVO|Legislação pertinente|Lei nº 14.133/2021|False
-12.1.2|Geral Especifico|DIREITO ADMINISTRATIVO|Legislação pertinente|Decreto nº 11.462/2013 e suas alterações (sistema de registro de preços)|False
-12.2|Geral Especifico|DIREITO ADMINISTRATIVO|Licitações e contratos administrativos|Fundamentos constitucionais|False
-12.3|Geral Especifico|DIREITO ADMINISTRATIVO|Licitações e contratos administrativos|Elaboração e fiscalização de contratos|False
-12.4|Geral Especifico|DIREITO ADMINISTRATIVO|Licitações e contratos administrativos|Elaboração de projetos básicos para contratação de bens e serviços|False
-12.5|Geral Especifico|DIREITO ADMINISTRATIVO|Licitações e contratos administrativos|Critérios de remuneração por esforço versus produto|False
-12.6|Geral Especifico|DIREITO ADMINISTRATIVO|Licitações e contratos administrativos|Cláusulas e indicadores de nível de serviço|False
-12.7|Geral Especifico|DIREITO ADMINISTRATIVO|Licitações e contratos administrativos|Papel do fiscalizador do contrato|False
-12.8|Geral Especifico|DIREITO ADMINISTRATIVO|Licitações e contratos administrativos|Acompanhamento da execução contratual|False
-12.9|Geral Especifico|DIREITO ADMINISTRATIVO|Licitações e contratos administrativos|Definição e aplicação de penalidades e sanções administrativas|False
-13|Geral Especifico|DIREITO ADMINISTRATIVO|Lei Estadual nº 9.640/2025|Código de Conduta e Integridade da Secretaria de Estado da Fazenda de Sergipe|False
-1|Geral Especifico|DIREITO CONSTITUCIONAL|Constituição da República|Constituição da República Federativa do Brasil de 1988|False
-2|Geral Especifico|DIREITO CONSTITUCIONAL|Aplicabilidade das normas|-|False
-2.1|Geral Especifico|DIREITO CONSTITUCIONAL|Aplicabilidade das normas|Normas de eficácia plena, contida e limitada|False
-2.2|Geral Especifico|DIREITO CONSTITUCIONAL|Aplicabilidade das normas|Normas programáticas|False
-3|Geral Especifico|DIREITO CONSTITUCIONAL|Direitos e garantias fundamentais|-|False
-3.1|Geral Especifico|DIREITO CONSTITUCIONAL|Direitos e garantias fundamentais|Direitos e deveres individuais e coletivos, direitos sociais, direitos de nacionalidade, direitos políticos, partidos políticos|False
-4|Geral Especifico|DIREITO CONSTITUCIONAL|Organização político-administrativa|-|False
-4.1|Geral Especifico|DIREITO CONSTITUCIONAL|Organização político-administrativa|Estado federal brasileiro, União, estados, Distrito Federal, municípios e territórios|False
-5|Geral Especifico|DIREITO CONSTITUCIONAL|Administração pública|Disposições gerais, servidores públicos|False
-6|Geral Especifico|DIREITO CONSTITUCIONAL|Poder Executivo|-|False
-6.1|Geral Especifico|DIREITO CONSTITUCIONAL|Poder Executivo|Atribuições e responsabilidades do presidente da República|False
-7|Geral Especifico|DIREITO CONSTITUCIONAL|Poder Legislativo|-|False
-7.1|Geral Especifico|DIREITO CONSTITUCIONAL|Poder Legislativo|Estrutura|False
-7.2|Geral Especifico|DIREITO CONSTITUCIONAL|Poder Legislativo|Funcionamento e atribuições|False
-7.3|Geral Especifico|DIREITO CONSTITUCIONAL|Processo legislativo|-|False
-7.3.1|Geral Especifico|DIREITO CONSTITUCIONAL|Processo legislativo|Processo legislativo federal: conceito, espécies normativas, modalidades, fases|False
-7.3.2|Geral Especifico|DIREITO CONSTITUCIONAL|Processo legislativo|Processo legislativo estadual, distrital e municipal: normas constitucionais federais aplicáveis|False
-7.4|Geral Especifico|DIREITO CONSTITUCIONAL|Fiscalização contábil|Financeira e orçamentária|False
-7.5|Geral Especifico|DIREITO CONSTITUCIONAL|Comissões parlamentares|Comissões parlamentares de inquérito|False
-8|Geral Especifico|DIREITO CONSTITUCIONAL|Poder Judiciário|Disposições gerais|False
-9|Geral Especifico|DIREITO CONSTITUCIONAL|Funções essenciais à justiça|-|False
-9.1|Geral Especifico|DIREITO CONSTITUCIONAL|Funções essenciais à justiça|Ministério Público, advocacia pública|False
-9.2|Geral Especifico|DIREITO CONSTITUCIONAL|Funções essenciais à justiça|Advocacia privada e Defensoria Pública|False
-10|Geral Especifico|DIREITO CONSTITUCIONAL|Controle de constitucionalidade|-|False
-10.1|Geral Especifico|DIREITO CONSTITUCIONAL|Controle de constitucionalidade|Controle judicial de constitucionalidade: conceito, histórico, sistemas, pressupostos, modalidades, órgãos competentes, sujeitos legitimados, objetos de controle, tipos de inconstitucionalidade, parâmetros de controle, formalidades, procedimentos, julgamentos, decisões, efeitos das decisões, técnicas de decisão, segurança e estabilidade das decisões|False
-10.2|Geral Especifico|DIREITO CONSTITUCIONAL|Controle de constitucionalidade|Súmula vinculante|False
-10.3|Geral Especifico|DIREITO CONSTITUCIONAL|Controle de constitucionalidade|Reclamação constitucional|False
-10.4|Geral Especifico|DIREITO CONSTITUCIONAL|Controle não judicial|Órgãos, institutos e procedimentos|False
-10.5|Geral Especifico|DIREITO CONSTITUCIONAL|Controle de constitucionalidade|Nos estados e no Distrito Federal|False
-11|Geral Especifico|DIREITO CONSTITUCIONAL|Ordem econômica e financeira|-|False
-12|Geral Especifico|DIREITO CONSTITUCIONAL|Finanças públicas|-|False
-13|Geral Especifico|DIREITO CONSTITUCIONAL|Constituição do Estado de Sergipe|-|False
-1|Geral Especifico|DIREITO EMPRESARIAL|Fundamentos do direito empresarial|-|False
-1.1|Geral Especifico|DIREITO EMPRESARIAL|Fundamentos do direito empresarial|Origem e evolução histórica, autonomia, fontes e características|False
-1.2|Geral Especifico|DIREITO EMPRESARIAL|Fundamentos do direito empresarial|Teoria da empresa|False
-1.3|Geral Especifico|DIREITO EMPRESARIAL|Fundamentos do direito empresarial|Empresário: conceito, caracterização, inscrição, capacidade; empresário individual; pequeno empresário|False
-1.4|Geral Especifico|DIREITO EMPRESARIAL|Fundamentos do direito empresarial|Lei Complementar nº 123/2006 e suas alterações (microempresa e empresa de pequeno porte)|False
-1.5|Geral Especifico|DIREITO EMPRESARIAL|Fundamentos do direito empresarial|Prepostos do empresário|False
-1.6|Geral Especifico|DIREITO EMPRESARIAL|Fundamentos do direito empresarial|Institutos complementares: nome empresarial, estabelecimento empresarial, escrituração|False
-2|Geral Especifico|DIREITO EMPRESARIAL|Registro de empresa|-|False
-2.1|Geral Especifico|DIREITO EMPRESARIAL|Registro de empresa|Órgãos de registro de empresa|False
-2.2|Geral Especifico|DIREITO EMPRESARIAL|Registro de empresa|Atos de registro de empresa|False
-2.3|Geral Especifico|DIREITO EMPRESARIAL|Registro de empresa|Processo decisório do registro de empresa|False
-2.4|Geral Especifico|DIREITO EMPRESARIAL|Registro de empresa|Inatividade da empresa|False
-2.5|Geral Especifico|DIREITO EMPRESARIAL|Registro de empresa|Empresário irregular|False
-2.6|Geral Especifico|DIREITO EMPRESARIAL|Registro de empresa|Lei nº 8.934/1994 e suas alterações|False
-3|Geral Especifico|DIREITO EMPRESARIAL|Direito societário|-|False
-3.1|Geral Especifico|DIREITO EMPRESARIAL|Direito societário|Sociedade empresária: conceito, terminologia, ato constitutivo|False
-3.2|Geral Especifico|DIREITO EMPRESARIAL|Direito societário|Sociedades simples e empresárias|False
-3.3|Geral Especifico|DIREITO EMPRESARIAL|Direito societário|Personalização da sociedade empresária|False
-3.4|Geral Especifico|DIREITO EMPRESARIAL|Direito societário|Classificação das sociedades empresárias|False
-3.5|Geral Especifico|DIREITO EMPRESARIAL|Direito societário|Sociedade irregular|False
-3.6|Geral Especifico|DIREITO EMPRESARIAL|Direito societário|Teoria da desconsideração da personalidade jurídica|False
-3.7|Geral Especifico|DIREITO EMPRESARIAL|Direito societário|Desconsideração inversa|False
-3.8|Geral Especifico|DIREITO EMPRESARIAL|Direito societário|Regime jurídico dos sócios|False
-3.9|Geral Especifico|DIREITO EMPRESARIAL|Direito societário|Sociedade limitada|False
-3.10|Geral Especifico|DIREITO EMPRESARIAL|Direito societário|Sociedade anônima|False
-3.11|Geral Especifico|DIREITO EMPRESARIAL|Direito societário|Lei nº 6.404/1976 e suas alterações|False
-3.12|Geral Especifico|DIREITO EMPRESARIAL|Direito societário|Sociedade em nome coletivo|False
-3.13|Geral Especifico|DIREITO EMPRESARIAL|Direito societário|Sociedade em comandita simples|False
-3.14|Geral Especifico|DIREITO EMPRESARIAL|Direito societário|Sociedade em comandita por ações|False
-3.15|Geral Especifico|DIREITO EMPRESARIAL|Direito societário|Operações societárias: transformação, incorporação, fusão e cisão|False
-3.16|Geral Especifico|DIREITO EMPRESARIAL|Direito societário|Relações entre sociedades: coligações de sociedades, grupos societários, consórcios, sociedade subsidiária integral, sociedade de propósito específico|False
-3.17|Geral Especifico|DIREITO EMPRESARIAL|Direito societário|Dissolução, liquidação e extinção das sociedades|False
-1|Geral Especifico|DIREITO CIVIL|Lei de Introdução às Normas do Direito Brasileiro|-|False
-1.1|Geral Especifico|DIREITO CIVIL|Lei de Introdução às Normas do Direito Brasileiro|Vigência, aplicação, obrigatoriedade, interpretação e integração das leis|False
-1.2|Geral Especifico|DIREITO CIVIL|Lei de Introdução às Normas do Direito Brasileiro|Conflito das leis no tempo|False
-1.3|Geral Especifico|DIREITO CIVIL|Lei de Introdução às Normas do Direito Brasileiro|Eficácia das leis no espaço|False
-2|Geral Especifico|DIREITO CIVIL|Pessoas naturais|-|False
-2.1|Geral Especifico|DIREITO CIVIL|Pessoas naturais|Conceito|False
-2.2|Geral Especifico|DIREITO CIVIL|Pessoas naturais|Existência da pessoa natural|False
-2.3|Geral Especifico|DIREITO CIVIL|Pessoas naturais|Personalidade|False
-2.4|Geral Especifico|DIREITO CIVIL|Pessoas naturais|Capacidade|False
-2.5|Geral Especifico|DIREITO CIVIL|Pessoas naturais|Direitos da personalidade|False
-2.6|Geral Especifico|DIREITO CIVIL|Pessoas naturais|Nome civil|False
-2.7|Geral Especifico|DIREITO CIVIL|Pessoas naturais|Estado civil|False
-2.8|Geral Especifico|DIREITO CIVIL|Pessoas naturais|Domicílio|False
-2.9|Geral Especifico|DIREITO CIVIL|Pessoas naturais|Ausência|False
-3|Geral Especifico|DIREITO CIVIL|Pessoas jurídicas|-|False
-3.1|Geral Especifico|DIREITO CIVIL|Pessoas jurídicas|Disposições gerais|False
-3.2|Geral Especifico|DIREITO CIVIL|Pessoas jurídicas|Conceito e elementos caracterizadores|False
-3.3|Geral Especifico|DIREITO CIVIL|Pessoas jurídicas|Constituição|False
-3.4|Geral Especifico|DIREITO CIVIL|Pessoas jurídicas|Extinção|False
-3.5|Geral Especifico|DIREITO CIVIL|Pessoas jurídicas|Capacidade e direitos da personalidade|False
-3.6|Geral Especifico|DIREITO CIVIL|Pessoas jurídicas|Sociedades de fato|False
-3.7|Geral Especifico|DIREITO CIVIL|Pessoas jurídicas|Associações|False
-3.8|Geral Especifico|DIREITO CIVIL|Pessoas jurídicas|Sociedades|False
-3.9|Geral Especifico|DIREITO CIVIL|Pessoas jurídicas|Fundações|False
-3.10|Geral Especifico|DIREITO CIVIL|Pessoas jurídicas|Entes despersonalizados|False
-3.11|Geral Especifico|DIREITO CIVIL|Pessoas jurídicas|Desconsideração da personalidade jurídica|False
-3.12|Geral Especifico|DIREITO CIVIL|Pessoas jurídicas|Responsabilidade da pessoa jurídica e dos sócios|False
-4|Geral Especifico|DIREITO CIVIL|Domicílio|-|False
-5|Geral Especifico|DIREITO CIVIL|Bens|-|False
-5.1|Geral Especifico|DIREITO CIVIL|Bens|Diferentes classes|False
-5.2|Geral Especifico|DIREITO CIVIL|Bens|Bens corpóreos e incorpóreos|False
-5.3|Geral Especifico|DIREITO CIVIL|Bens|Bens no comércio e fora do comércio|False
-5.4|Geral Especifico|DIREITO CIVIL|Bens|Bens considerados em si mesmos|False
-5.5|Geral Especifico|DIREITO CIVIL|Bens|Bens reciprocamente considerados|False
-5.6|Geral Especifico|DIREITO CIVIL|Bens|Bens públicos|False
-6|Geral Especifico|DIREITO CIVIL|Fato jurídico|-|False
-7|Geral Especifico|DIREITO CIVIL|Negócio jurídico|-|False
-7.1|Geral Especifico|DIREITO CIVIL|Negócio jurídico|Disposições gerais|False
-7.2|Geral Especifico|DIREITO CIVIL|Negócio jurídico|Classificação e interpretação|False
-7.3|Geral Especifico|DIREITO CIVIL|Negócio jurídico|Elementos|False
-7.4|Geral Especifico|DIREITO CIVIL|Negócio jurídico|Representação|False
-7.5|Geral Especifico|DIREITO CIVIL|Negócio jurídico|Condição, termo e encargo|False
-7.6|Geral Especifico|DIREITO CIVIL|Negócio jurídico|Defeitos do negócio jurídico|False
-7.7|Geral Especifico|DIREITO CIVIL|Negócio jurídico|Existência, validade, eficácia|False
-7.8|Geral Especifico|DIREITO CIVIL|Negócio jurídico|Invalidade do negócio jurídico|False
-7.9|Geral Especifico|DIREITO CIVIL|Negócio jurídico|Simulação|False
-8|Geral Especifico|DIREITO CIVIL|Atos jurídicos|Atos jurídicos lícitos e ilícitos|False
-9|Geral Especifico|DIREITO CIVIL|Prescrição e decadência|-|False
-10|Geral Especifico|DIREITO CIVIL|Prova do fato jurídico|-|False
-11|Geral Especifico|DIREITO CIVIL|Direito de família|-|False
-11.1|Geral Especifico|DIREITO CIVIL|Direito de família|Direito pessoal|False
-11.2|Geral Especifico|DIREITO CIVIL|Direito de família|Direito patrimonial|False
-11.3|Geral Especifico|DIREITO CIVIL|Direito de família|União estável|False
-11.4|Geral Especifico|DIREITO CIVIL|Direito de família|Tutela e curatela|False
-12|Geral Especifico|DIREITO CIVIL|Direito das sucessões|-|False
-12.1|Geral Especifico|DIREITO CIVIL|Direito das sucessões|Sucessão em geral|False
-12.2|Geral Especifico|DIREITO CIVIL|Direito das sucessões|Sucessão legítima|False
-12.3|Geral Especifico|DIREITO CIVIL|Direito das sucessões|Sucessão testamentária|False
-1|Geral Especifico|DIREITO PENAL|Princípios do direito penal|Princípios aplicáveis ao direito penal|False
-2|Geral Especifico|DIREITO PENAL|Aplicação da lei penal|-|False
-2.1|Geral Especifico|DIREITO PENAL|Aplicação da lei penal|A lei penal no tempo e no espaço|False
-2.2|Geral Especifico|DIREITO PENAL|Aplicação da lei penal|Tempo e lugar do crime|False
-2.3|Geral Especifico|DIREITO PENAL|Aplicação da lei penal|Interpretação da lei penal|False
-2.4|Geral Especifico|DIREITO PENAL|Aplicação da lei penal|Analogia|False
-2.5|Geral Especifico|DIREITO PENAL|Aplicação da lei penal|Irretroatividade da lei penal|False
-2.6|Geral Especifico|DIREITO PENAL|Aplicação da lei penal|Conflito aparente de normas penais|False
-3|Geral Especifico|DIREITO PENAL|Ilicitude|-|False
-4|Geral Especifico|DIREITO PENAL|Culpabilidade|-|False
-5|Geral Especifico|DIREITO PENAL|Punibilidade|Punibilidade e causas de extinção|False
-6|Geral Especifico|DIREITO PENAL|Crimes contra a administração pública|-|False
-7|Geral Especifico|DIREITO PENAL|Abuso de autoridade|Lei nº 13.869/2019|False
-8|Geral Especifico|DIREITO PENAL|Disposições constitucionais|Disposições constitucionais aplicáveis ao direito penal|False
-9|Geral Especifico|DIREITO PENAL|Crimes contra a ordem tributária|-|False
-1|Geral Especifico|LEGISLAÇÃO TRIBUTÁRIA ESTADUAL|-|Lei Estadual nº 3.796/1996 e Decreto Estadual nº 21.400/2002 e anexos (Regulamento do ICMS)|False
-2|Geral Especifico|LEGISLAÇÃO TRIBUTÁRIA ESTADUAL|-|Lei Estadual nº 7.651/2013 e Decreto Estadual nº 29.803/2014 (processo administrativo fiscal)|False
-3|Geral Especifico|LEGISLAÇÃO TRIBUTÁRIA ESTADUAL|-|Programa Sergipano de Desenvolvimento Industrial – PSDI (Lei Estadual nº 3.140/1991 e alterações) e Decreto Estadual nº 29.935/2014|False
-4|Geral Especifico|LEGISLAÇÃO TRIBUTÁRIA ESTADUAL|-|Fundo Estadual de Equilíbrio Fiscal (FEEF): Lei nº 8.180/2016 e Decreto nº 30.479/2017 (regulamento do FEEF)|False
-5|Geral Especifico|LEGISLAÇÃO TRIBUTÁRIA ESTADUAL|-|Lei Estadual nº 7.655/2013 e Decreto Estadual nº 29.684/2014 (regulamento do IPVA)|False
-6|Geral Especifico|LEGISLAÇÃO TRIBUTÁRIA ESTADUAL|-|Lei Estadual nº 7.724/2013 e Decreto Estadual nº 29.994/2015 (regulamento do ITCMD)|False
-7|Geral Especifico|LEGISLAÇÃO TRIBUTÁRIA ESTADUAL|-|Lei Estadual nº 8.638/2019 (Taxa Estadual de Fiscalização e Serviços Diversos - TFSD)|False
-8|Geral Especifico|LEGISLAÇÃO TRIBUTÁRIA ESTADUAL|-|Lei nº 4.731/2002 (Fundo Estadual de Combate e Erradicação da Pobreza e ICMS)|False
-1|Geral Especifico|AUDITORIA FISCAL|-|Normas Brasileiras de Contabilidade de Auditoria – NBC TA e NBC PA|False
-2|Geral Especifico|AUDITORIA FISCAL|-|Amostragem em Auditoria. NBC TA 530, aprovada pela Resolução CFC nº 1.222/2009|False
-3|Geral Especifico|AUDITORIA FISCAL|-|Testes de observância|False
-4|Geral Especifico|AUDITORIA FISCAL|-|Testes substantivos|False
-5|Geral Especifico|AUDITORIA FISCAL|-|Testes para subavaliação e testes para superavaliação|False
-6|Geral Especifico|AUDITORIA FISCAL|-|Evidências de auditoria|False
-7|Geral Especifico|AUDITORIA FISCAL|-|Procedimentos de auditoria|False
-8|Geral Especifico|AUDITORIA FISCAL|-|Identificação de fraudes na escrita contábil|False
-9|Geral Especifico|AUDITORIA FISCAL|-|Demonstrações contábeis sujeitas a auditoria|False
-10|Geral Especifico|AUDITORIA FISCAL|Ativo circulante|Auditoria no ativo circulante|False
-10.1|Geral Especifico|AUDITORIA FISCAL|Ativo circulante|Recomposição contábil do fluxo de caixa da empresa|False
-11|Geral Especifico|AUDITORIA FISCAL|Ativo circulante|Identificação de saldo credor na conta caixa por falta de emissão de documentos fiscais|False
-12|Geral Especifico|AUDITORIA FISCAL|Ativo circulante|Suprimento das disponibilidades sem comprovação quanto à efetiva entrega dos recursos financeiros|False
-13|Geral Especifico|AUDITORIA FISCAL|Ativo circulante|Aquisições de mercadorias, bens, serviços e outros ativos não contabilizados e sem comprovação da origem|False
-14|Geral Especifico|AUDITORIA FISCAL|Ativo circulante|Baixa fictícia de títulos não recebidos|False
-15|Geral Especifico|AUDITORIA FISCAL|Ativo circulante|Cotejamento de recebíveis com registros contábeis de receitas|False
-16|Geral Especifico|AUDITORIA FISCAL|Ativo não circulante|Auditoria no ativo não circulante|False
-16.1|Geral Especifico|AUDITORIA FISCAL|Ativo não circulante|Superavaliação na formação dos custos de estoque|False
-17|Geral Especifico|AUDITORIA FISCAL|Ativo realizável a longo prazo|Auditoria no ativo realizável a longo prazo|False
-17.1|Geral Especifico|AUDITORIA FISCAL|Ativo realizável a longo prazo|Identificação de origens de recursos fictícias|False
-18|Geral Especifico|AUDITORIA FISCAL|Investimentos|Auditoria em investimentos|False
-19|Geral Especifico|AUDITORIA FISCAL|Ativo imobilizado|Auditoria no ativo imobilizado|False
-19.1|Geral Especifico|AUDITORIA FISCAL|Ativo imobilizado|Ativos ocultos|False
-20|Geral Especifico|AUDITORIA FISCAL|Ativo imobilizado|Alienação fictícia de bens|False
-21|Geral Especifico|AUDITORIA FISCAL|Ativo intangível|Auditoria no ativo intangível|False
-22|Geral Especifico|AUDITORIA FISCAL|Passivo circulante|Auditoria no passivo circulante|False
-22.1|Geral Especifico|AUDITORIA FISCAL|Passivo circulante|Falta de registro contábil dos passivos de curto prazo|False
-23|Geral Especifico|AUDITORIA FISCAL|Passivo circulante|Passivos fictícios|False
-24|Geral Especifico|AUDITORIA FISCAL|Passivo circulante|Identificação de passivos já pagos e não baixados|False
-25|Geral Especifico|AUDITORIA FISCAL|Passivo não circulante|Auditoria no passivo não circulante|False
-26|Geral Especifico|AUDITORIA FISCAL|Patrimônio líquido|Auditoria no patrimônio líquido|False
-27|Geral Especifico|AUDITORIA FISCAL|Patrimônio líquido|Aumento do capital social sem comprovação quanto à entrega dos recursos|False
-28|Geral Especifico|AUDITORIA FISCAL|Patrimônio líquido|Contabilização de reservas|False
-29|Geral Especifico|AUDITORIA FISCAL|Patrimônio líquido|Subvenções|False
-30|Geral Especifico|AUDITORIA FISCAL|Contas de resultado|Auditoria em contas de resultado|False
-31|Geral Especifico|AUDITORIA FISCAL|Contas de resultado|Registro de receitas e despesas|False
-32|Geral Especifico|AUDITORIA FISCAL|Contas de resultado|Ocultação de receitas|False
-33|Geral Especifico|AUDITORIA FISCAL|Contas de resultado|Superavaliação de custos e despesas|False
-34|Geral Especifico|AUDITORIA FISCAL|Escrita fiscal|Identificação de fraudes e erros na escrita fiscal|False
-35|Geral Especifico|AUDITORIA FISCAL|Escrita fiscal|Auditoria na escrita fiscal digital (EFD) e na NFe|False
-36|Geral Especifico|AUDITORIA FISCAL|Escrita fiscal|Testes de auditoria nos registros da NFe e demais controles ICMS|False
-37|Geral Especifico|AUDITORIA FISCAL|Sigilo bancário|Lei Complementar nº 105/2001|False
-1|Especifico|TECNOLOGIA DA INFORMAÇÃO|Gestão de TI|Ciclo PDCA|False
-2|Especifico|TECNOLOGIA DA INFORMAÇÃO|Gestão de TI|Gerência de projetos: conceitos básicos|False
-3|Especifico|TECNOLOGIA DA INFORMAÇÃO|Gestão de TI|PMBOK 7ª edição|False
-4|Especifico|TECNOLOGIA DA INFORMAÇÃO|Gestão de TI|COBIT 2019|False
-5|Especifico|TECNOLOGIA DA INFORMAÇÃO|Gestão de TI|ITIL v4|False
-6|Especifico|TECNOLOGIA DA INFORMAÇÃO|Gestão de TI|Gerenciamento de processos de negócio: técnicas de mapeamento, modelos AS-IS, TO-BE e TO-RUN, análise e simulação de processos, construção e mensuração de indicadores|False
-7|Especifico|TECNOLOGIA DA INFORMAÇÃO|Gestão de TI|Modelagem de processos em BPMN: notação, artefatos e atividades, workflow, BPMS|False
-8|Especifico|TECNOLOGIA DA INFORMAÇÃO|Gestão de TI|Decision model and notation (DMN)|False
-9|Especifico|TECNOLOGIA DA INFORMAÇÃO|Gestão de TI|Noções de planejamento estratégico e tático de TIC|False
-10|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Engenharia de software|False
-11|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Ciclo de vida do software|False
-12|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Análise e projeto de sistemas: padrões, práticas e princípios de orientação a objetos|False
-12.1|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Design patterns|False
-12.2|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Princípios SOLID|False
-12.3|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Princípios GRASP|False
-12.4|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Unified process|False
-12.5|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|UML 2|False
-12.6|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Domain Driven Design|False
-12.7|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Arquitetura hexagonal (portas e adaptadores)|False
-13|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Metodologias de desenvolvimento de software|False
-14|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Métricas e estimativas de software|False
-15|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Qualidade de software|False
-16|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|CMMI-DEV v2.0, MR-MPS-SW, Guia Geral MPS de Software (2021)|False
-17|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Engenharia de requisitos: conceitos básicos, técnicas de elicitação e especificação|False
-18|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Metodologias e práticas ágeis|False
-18.1|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Scrum|False
-18.2|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|XP|False
-18.3|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Kanban|False
-18.4|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Especificação por exemplo|False
-18.5|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Domain-driven design (DDD)|False
-19|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Testes de software (unidade, integração, sistema, aceitação, regressão, desempenho, vulnerabilidade, usabilidade e carga)|False
-20|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Criptografia: conceitos básicos e aplicações|False
-20.1|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Protocolos criptográficos|False
-20.2|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Criptografia simétrica e assimétrica|False
-20.3|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Principais algoritmos|False
-21|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Assinatura digital|False
-22|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Certificado digital|False
-23|Especifico|TECNOLOGIA DA INFORMAÇÃO|Sistemas de Informação|Desenvolvimento seguro de software: OWASP|False
-24|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Linguagens de definição e manipulação de dados em SGBDs relacionais|False
-25|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Modelagem de dados: modelos relacional e multidimensional|False
-26|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Administração de banco de dados relacionais|False
-26.1|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Projeto e implantação de SGBDs relacionais (SQL Server, Oracle, MySQL, PostgreSQL)|False
-26.2|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Administração de usuários e perfis de acesso|False
-26.3|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Controle de proteção, integridade e concorrência|False
-26.4|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Backup e restauração de dados|False
-26.5|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Tolerância a falhas e continuidade de operação|False
-26.6|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Monitoramento e otimização de desempenho, cluster de banco de dados|False
-27|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Pipeline de dados: fundamentos, orquestração, integração, ETL, ELT e ferramentas|False
-28|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|OLAP|False
-29|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Técnicas de modelagem e otimização de bases de dados multidimensionais|False
-30|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Técnicas para pré-processamento de dados|False
-31|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Processamento distribuído|False
-32|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Data lake|False
-33|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Conceitos, arquiteturas, técnicas e tarefas de data mining e data warehouse|False
-34|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Big data: conceito, premissas, análise de dados e aplicações|False
-35|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Ecossistema Hadoop: conceitos, arquitetura, componentes e implantação|False
-36|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Spark: conceitos, arquitetura e aplicações|False
-37|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Bancos de dados não relacionais: fundamentos, administração, desempenho e configuração|False
-38|Especifico|TECNOLOGIA DA INFORMAÇÃO|Banco de Dados|Massive Parallel Processing (MPP)|False
-39|Especifico|TECNOLOGIA DA INFORMAÇÃO|Ciência de Dados|Fundamentos de ciência de dados|False
-40|Especifico|TECNOLOGIA DA INFORMAÇÃO|Ciência de Dados|Classificação|False
-41|Especifico|TECNOLOGIA DA INFORMAÇÃO|Ciência de Dados|Coleta, tratamento, armazenamento, integração e recuperação de dados|False
-42|Especifico|TECNOLOGIA DA INFORMAÇÃO|Ciência de Dados|Regras de associação|False
-43|Especifico|TECNOLOGIA DA INFORMAÇÃO|Ciência de Dados|Modelagem relacional e multidimensional|False
-44|Especifico|TECNOLOGIA DA INFORMAÇÃO|Ciência de Dados|Aprendizagem de máquina: fundamentos, principais algoritmos e métricas de desempenho|False
-45|Especifico|TECNOLOGIA DA INFORMAÇÃO|Ciência de Dados|Regressão linear|False
-46|Especifico|TECNOLOGIA DA INFORMAÇÃO|Ciência de Dados|Regressão logística|False
-47|Especifico|TECNOLOGIA DA INFORMAÇÃO|Ciência de Dados|Análise de agrupamentos (clusterização)|False
-48|Especifico|TECNOLOGIA DA INFORMAÇÃO|Ciência de Dados|Classificação|False
-49|Especifico|TECNOLOGIA DA INFORMAÇÃO|Ciência de Dados|Detecção de anomalias|False
-50|Especifico|TECNOLOGIA DA INFORMAÇÃO|Ciência de Dados|Modelagem preditiva|False
-51|Especifico|TECNOLOGIA DA INFORMAÇÃO|Ciência de Dados|Visão computacional|False
-52|Especifico|TECNOLOGIA DA INFORMAÇÃO|Ciência de Dados|Mineração de texto|False
-53|Especifico|TECNOLOGIA DA INFORMAÇÃO|Ciência de Dados|Redes neurais artificiais|False
-54|Especifico|TECNOLOGIA DA INFORMAÇÃO|Ciência de Dados|Deep learning|False
-55|Especifico|TECNOLOGIA DA INFORMAÇÃO|Ciência de Dados|Visualização e análise exploratória de dados|False
-56|Especifico|TECNOLOGIA DA INFORMAÇÃO|Ciência de Dados|Business Intelligence|False
-57|Especifico|TECNOLOGIA DA INFORMAÇÃO|Ciência de Dados|Inteligência Artificial (RAG e LLM)|False
-58|Especifico|TECNOLOGIA DA INFORMAÇÃO|Segurança da Informação|Fundamentos|False
-59|Especifico|TECNOLOGIA DA INFORMAÇÃO|Segurança da Informação|Confidencialidade, integridade, disponibilidade, autenticidade e não repúdio|False
-60|Especifico|TECNOLOGIA DA INFORMAÇÃO|Segurança da Informação|Classificação e controle dos ativos de informação|False
-61|Especifico|TECNOLOGIA DA INFORMAÇÃO|Segurança da Informação|Políticas de segurança|False
-62|Especifico|TECNOLOGIA DA INFORMAÇÃO|Segurança da Informação|Políticas de classificação da informação|False
-63|Especifico|TECNOLOGIA DA INFORMAÇÃO|Segurança da Informação|Normas ABNT NBR ISO/IEC 27001, 27002, 27005, 22301|False
-64|Especifico|TECNOLOGIA DA INFORMAÇÃO|Segurança da Informação|Lei nº 13.709/2018 (LGPD)|False
-65|Especifico|TECNOLOGIA DA INFORMAÇÃO|Segurança da Informação|Gerenciamento de acesso e identidade: IAM, RBAC|False
-66|Especifico|TECNOLOGIA DA INFORMAÇÃO|Segurança da Informação|Segurança de redes de computadores: firewall, IDS, antivírus, NAT, VPN|False
-67|Especifico|TECNOLOGIA DA INFORMAÇÃO|Segurança da Informação|Prevenção e tratamento de incidentes|False
-68|Especifico|TECNOLOGIA DA INFORMAÇÃO|Segurança da Informação|Gestão de riscos: ameaça, vulnerabilidade, impacto e formas de tratamento de riscos|False
-69|Especifico|TECNOLOGIA DA INFORMAÇÃO|Segurança da Informação|Gestão de continuidade de negócio|False
-70|Especifico|TECNOLOGIA DA INFORMAÇÃO|Segurança da Informação|Conceitos e tipos de ataques cibernéticos|False
-71|Especifico|TECNOLOGIA DA INFORMAÇÃO|Segurança da Informação|Conceitos e tipos de malwares|False
-72|Especifico|TECNOLOGIA DA INFORMAÇÃO|Segurança da Informação|Conceitos de monitoramento e análise de tráfego|False
-73|Especifico|TECNOLOGIA DA INFORMAÇÃO|Segurança da Informação|Criptografia: conceitos básicos, protocolos, simétrica/assimétrica, principais algoritmos|False
-74|Especifico|TECNOLOGIA DA INFORMAÇÃO|Segurança da Informação|HTTPS/SSL|False
-75|Especifico|TECNOLOGIA DA INFORMAÇÃO|Segurança da Informação|Certificado digital: tipos, padrões X.509 e ICP-Brasil|False
-76|Especifico|TECNOLOGIA DA INFORMAÇÃO|Segurança da Informação|DevSecOps: conceitos|False
-77|Especifico|TECNOLOGIA DA INFORMAÇÃO|Fiscalização de Contratos de TI|Gestão de contratação de soluções de TI|False
-78|Especifico|TECNOLOGIA DA INFORMAÇÃO|Fiscalização de Contratos de TI|Legislação aplicável à contratação de bens e serviços de TI|False
-78.1|Especifico|TECNOLOGIA DA INFORMAÇÃO|Fiscalização de Contratos de TI|Lei nº 14.133/2021 (Nova Lei de Licitações e Contratos)|False
-78.2|Especifico|TECNOLOGIA DA INFORMAÇÃO|Fiscalização de Contratos de TI|Instrução Normativa SGD/SEDGG/ME nº 94/2022|False
-78.3|Especifico|TECNOLOGIA DA INFORMAÇÃO|Fiscalização de Contratos de TI|Instrução Normativa SEGES/ME 65/2021|False
-79|Especifico|TECNOLOGIA DA INFORMAÇÃO|Fiscalização de Contratos de TI|Elaboração e fiscalização de contratos de TI: critérios, cláusulas, indicadores, papel do fiscalizador, acompanhamento e penalidades|False
-80.1|Especifico|TECNOLOGIA DA INFORMAÇÃO|Serviços de Computação em Nuvem|Conceitos de Computação em Nuvem: Elasticidade, Autoatendimento, pay-per-use|False
-80.2|Especifico|TECNOLOGIA DA INFORMAÇÃO|Serviços de Computação em Nuvem|Tipos de nuvem: Nuvem privada, híbrida e pública (AWS, Azure)|False
-80.3|Especifico|TECNOLOGIA DA INFORMAÇÃO|Serviços de Computação em Nuvem|Modelos de serviço: IaaS, PaaS e SaaS|False
-80.4|Especifico|TECNOLOGIA DA INFORMAÇÃO|Serviços de Computação em Nuvem|Infraestrutura como código (ex.: Ansible)|False
-80.5|Especifico|TECNOLOGIA DA INFORMAÇÃO|Serviços de Computação em Nuvem|Arquitetura Serverless|False
-80.6|Especifico|TECNOLOGIA DA INFORMAÇÃO|Serviços de Computação em Nuvem|Vantagens e desvantagens de cada tipo de nuvem|False
+1|Prova 1 - Conhecimentos Gerais|LINGUA PORTUGUESA|Interpretacao e gramatica|Interpretacao de texto; ortografia oficial; acentuacao grafica; pontuacao|False
+2|Prova 1 - Conhecimentos Gerais|LINGUA PORTUGUESA|Classes de palavras|Substantivo, adjetivo, numeral, pronome, verbo, adverbio, preposicao e conjuncao: emprego e sentido|False
+3|Prova 1 - Conhecimentos Gerais|LINGUA PORTUGUESA|Vozes verbais|Vozes verbais|False
+4|Prova 1 - Conhecimentos Gerais|LINGUA PORTUGUESA|Concordancia e regencia|Concordancia verbal e nominal; regencia verbal e nominal|False
+5|Prova 1 - Conhecimentos Gerais|LINGUA PORTUGUESA|Sintaxe|Processos de coordenacao e subordinacao; ocorrencia de crase|False
+6|Prova 1 - Conhecimentos Gerais|LINGUA PORTUGUESA|Semantica|Sinonimos e antonimos; sentido proprio e figurado das palavras|False
+7|Prova 1 - Conhecimentos Gerais|LINGUA PORTUGUESA|Redacao|Reconhecimento de frases corretas e incorretas|False
+1|Prova 1 - Conhecimentos Gerais|RACIOCINIO CRITICO, LOGICO E ESTATISTICA|Raciocinio critico|Elaboracao de argumentos; avaliacao da argumentacao; formulacao e avaliacao de planos de acao|False
+2|Prova 1 - Conhecimentos Gerais|RACIOCINIO CRITICO, LOGICO E ESTATISTICA|Construcao de argumentos|Estrutura basica de argumento; conclusoes apropriadas; hipoteses subjacentes; hipoteses explicativas; analogia entre argumentos|False
+3|Prova 1 - Conhecimentos Gerais|RACIOCINIO CRITICO, LOGICO E ESTATISTICA|Avaliacao de argumentos|Fatores que reforcam ou enfraquecem a argumentacao; erros de raciocinio; metodo de exposicao de razoes|False
+4|Prova 1 - Conhecimentos Gerais|RACIOCINIO CRITICO, LOGICO E ESTATISTICA|Plano de acao|Conveniencia, eficacia e eficiencia de planos; fatores de sucesso; hipoteses subjacentes|False
+5|Prova 1 - Conhecimentos Gerais|RACIOCINIO CRITICO, LOGICO E ESTATISTICA|Raciocinio logico|Proposicoes; conectivos; equivalencias; argumentos; diagrama e conjuntos|False
+6|Prova 1 - Conhecimentos Gerais|RACIOCINIO CRITICO, LOGICO E ESTATISTICA|Estatistica descritiva|Graficos, tabelas, medidas de posicao e de variabilidade|False
+7|Prova 1 - Conhecimentos Gerais|RACIOCINIO CRITICO, LOGICO E ESTATISTICA|Probabilidades|Conceito, axiomas e distribuicoes: binomial, normal, Poisson, qui-quadrado, t de Student e F|False
+8|Prova 1 - Conhecimentos Gerais|RACIOCINIO CRITICO, LOGICO E ESTATISTICA|Inferencia e amostragem|Inferencia estatistica; amostras casuais e nao casuais; processos de amostragem; estimativas de parametros|False
+9|Prova 1 - Conhecimentos Gerais|RACIOCINIO CRITICO, LOGICO E ESTATISTICA|Intervalos e testes|Intervalos de confianca; testes de hipoteses para medias e proporcoes|False
+10|Prova 1 - Conhecimentos Gerais|RACIOCINIO CRITICO, LOGICO E ESTATISTICA|Correlacao e regressao|Correlacao e regressao|False
+1|Prova 1 - Conhecimentos Gerais|ECONOMIA E FINANCAS PUBLICAS|Economia da tributacao|Necessidade economica; impostos, taxas e contribuicao de melhoria; impostos indiretos ad valorem, especificos, valor adicionado e excise tax|False
+2|Prova 1 - Conhecimentos Gerais|ECONOMIA E FINANCAS PUBLICAS|Tributacao e eficiencia|Eficiencia de Pareto; peso morto; elasticidades; regra de Ramsey; curva de Laffer; eficiencia versus equidade; capacidade contributiva e criterio do beneficio|False
+3|Prova 1 - Conhecimentos Gerais|ECONOMIA E FINANCAS PUBLICAS|Incidencia e politica tributaria|Incidencia economica; efeitos distributivos; tributacao e estruturas de mercado; efeitos sobre consumo, poupanca e gasto; estabilizadores automaticos|False
+4|Prova 1 - Conhecimentos Gerais|ECONOMIA E FINANCAS PUBLICAS|Financas publicas e federalismo|Modelo de Tiebout; federalismo otimo; impostos sobre valor adicionado vs vendas; impostos regressivos, proporcionais e progressivos; cumulativos vs nao cumulativos|False
+5|Prova 1 - Conhecimentos Gerais|ECONOMIA E FINANCAS PUBLICAS|Microeconomia|Oferta, demanda e equilibrio; estatica comparativa; restricao orcamentaria; utilidade; escolha do consumidor; impostos e subsidios; elasticidades; bens normais e inferiores; excedente do consumidor e produtor|False
+6|Prova 1 - Conhecimentos Gerais|ECONOMIA E FINANCAS PUBLICAS|Teoria da producao|Maximizacao de lucros; isoquantas; curva de possibilidades de producao; rendimentos decrescentes; curto e longo prazos; custos e oferta|False
+7|Prova 1 - Conhecimentos Gerais|ECONOMIA E FINANCAS PUBLICAS|Estruturas de mercado|Concorrencia perfeita; monopolio; falhas de mercado; externalidades; teorema de Coase; custos de transacao; Pigou; licencas negociaveis|False
+8|Prova 1 - Conhecimentos Gerais|ECONOMIA E FINANCAS PUBLICAS|Bens publicos e recursos comuns|Bens rivais e nao rivais, excludentes e nao excludentes; problema do carona; recursos comuns e tragedia dos comuns|False
+9|Prova 1 - Conhecimentos Gerais|ECONOMIA E FINANCAS PUBLICAS|Macroeconomia|Fluxo circular da renda; contabilidade nacional; PIB real e nominal; deflator do PIB; inflacao e indices|False
+10|Prova 1 - Conhecimentos Gerais|ECONOMIA E FINANCAS PUBLICAS|Mercado monetario e financeiro|Demanda e oferta de moeda; politica monetaria; Bacen; multiplicador bancario; curva LM; taxa de juros real e nominal|False
+11|Prova 1 - Conhecimentos Gerais|ECONOMIA E FINANCAS PUBLICAS|IS-LM e politica economica|Curva IS; modelo IS-LM; politica fiscal; politica monetaria; oferta e demanda agregada; deficits, efeito expulsao e multiplicador keynesiano|False
+12|Prova 1 - Conhecimentos Gerais|ECONOMIA E FINANCAS PUBLICAS|Economia aberta|Taxa de cambio nominal, real e efetiva; paridade do poder de compra; balanca comercial e fluxo de capitais; regimes de cambio; bens tradeables e non-tradeables; choques de oferta|False
+1|Prova 1 - Conhecimentos Gerais|DIREITO CONSTITUCIONAL I|Teoria do Estado e constitucionalismo|Conceitos; principios do Estado Democratico de Direito; evolucao historica do constitucionalismo brasileiro|False
+2|Prova 1 - Conhecimentos Gerais|DIREITO CONSTITUCIONAL I|Direito constitucional e normas|Conceito, objeto, fontes; supremacia da Constituicao; normas constitucionais: conceito, forma, conteudo, finalidade, estrutura logica, classificacao, eficacia e aplicacao|False
+3|Prova 1 - Conhecimentos Gerais|DIREITO CONSTITUCIONAL I|Hermenautica constitucional|Metodos e principios de interpretacao; regras materialmente e formalmente constitucionais|False
+4|Prova 1 - Conhecimentos Gerais|DIREITO CONSTITUCIONAL I|Poder Constituinte e federalismo|Conceito, finalidade, titularidade e especies; federalismo no Brasil|False
+5|Prova 1 - Conhecimentos Gerais|DIREITO CONSTITUCIONAL I|Direitos e garantias|Direitos e deveres individuais e coletivos; direitos sociais; nacionalidade; direitos politicos; partidos politicos|False
+6|Prova 1 - Conhecimentos Gerais|DIREITO CONSTITUCIONAL I|Remedios constitucionais|Habeas corpus, mandado de seguranca, direito de peticao, mandado de injuncao, acao popular, acao civil publica, habeas data|False
+7|Prova 1 - Conhecimentos Gerais|DIREITO CONSTITUCIONAL I|Organizacao do Estado|Organizacao politico-administrativa; separacao de poderes; competencias da Uniao, Estados, DF e Municipios; intervencao; administracao publica e servidores|False
+8|Prova 1 - Conhecimentos Gerais|DIREITO CONSTITUCIONAL I|Organizacao dos poderes|Poder Legislativo; reforma da Constituicao; clausulas petreas; processo legislativo; Poder Executivo; Poder Judiciario|False
+9|Prova 1 - Conhecimentos Gerais|DIREITO CONSTITUCIONAL I|Controle de constitucionalidade|Controle difuso e concentrado; ADI, ADC, ADO, ADPF; sumula vinculante; repercussao geral|False
+10|Prova 1 - Conhecimentos Gerais|DIREITO CONSTITUCIONAL I|Funcoes essenciais a justica|Ministerio Publico; advocacia publica; advocacia e defensoria publica|False
+11|Prova 1 - Conhecimentos Gerais|DIREITO CONSTITUCIONAL I|Defesa do Estado e seguranca|Estado de Defesa e Estado de Sitio; forcas armadas; seguranca publica|False
+12|Prova 1 - Conhecimentos Gerais|DIREITO CONSTITUCIONAL I|Tributacao e orcamento|Sistema Tributario Nacional; financas publicas|False
+13|Prova 1 - Conhecimentos Gerais|DIREITO CONSTITUCIONAL I|Ordem economica e social|Principios gerais da atividade economica; sistema financeiro nacional; seguridade social; disposicoes constitucionais gerais|False
+14|Prova 1 - Conhecimentos Gerais|DIREITO CONSTITUCIONAL I|ADCT e Constituicao Estadual|Disposicoes constitucionais transitorias; Constituicao Estadual de Santa Catarina: fundamentos, poderes, funcoes essenciais, administracao publica, servidores|False
+1|Prova 1 - Conhecimentos Gerais|DIREITO ADMINISTRATIVO I|Fundamentos|Objeto, fontes, conceito; regime juridico-administrativo; principios do direito administrativo e da administracao publica|False
+2|Prova 1 - Conhecimentos Gerais|DIREITO ADMINISTRATIVO I|Organizacao administrativa|Administracao direta e indireta; descentralizacao e desconcentracao; orgaos publicos; autarquias, agencias, fundacoes, empresas publicas, sociedades de economia mista, entidades paraestatais|False
+3|Prova 1 - Conhecimentos Gerais|DIREITO ADMINISTRATIVO I|Agentes publicos|Cargos, empregos e funcoes; regime constitucional e legal; provimento; direitos, deveres e responsabilidades; infracoes e sancoes|False
+4|Prova 1 - Conhecimentos Gerais|DIREITO ADMINISTRATIVO I|Competencia administrativa|Conceito e criterios; avocacao e delegacao; ausencia de competencia; agente de fato|False
+5|Prova 1 - Conhecimentos Gerais|DIREITO ADMINISTRATIVO I|Atos administrativos|Conceito, requisitos, elementos, atributos e classificacao; especies; fatos administrativos; validade, eficacia e autoexecutoriedade; silencio administrativo|False
+6|Prova 1 - Conhecimentos Gerais|DIREITO ADMINISTRATIVO I|Nulidades e extincao|Atos simples, complexos e compostos; unilaterais, bilaterais e multilaterais; vinculados e discricionarios; merito; ato inexistente; nulidades, vicios; motivos determinantes; cassacao, revogacao, anulacao e convalidacao|False
+7|Prova 1 - Conhecimentos Gerais|DIREITO ADMINISTRATIVO I|Poderes da administracao|Poder hierarquico, normativo, regulamentar, disciplinar e de policia; policia judiciaria e administrativa; limites e atributos|False
+8|Prova 1 - Conhecimentos Gerais|DIREITO ADMINISTRATIVO I|Servicos publicos|Conceito, principios, caracteristicas, titularidade, classificacao, garantias; usuario; delegacao: concessao, permissao e autorizacao|False
+9|Prova 1 - Conhecimentos Gerais|DIREITO ADMINISTRATIVO I|Parcerias e intervencao|Convenios e consorcios; intervencao no dominio economico; fomento; PPPs; Lei 11.079/2004|False
+10|Prova 1 - Conhecimentos Gerais|DIREITO ADMINISTRATIVO I|Controle e improbidade|Controle interno e externo; controle parlamentar e tribunais de contas; controle administrativo e jurisdicional; improbidade administrativa; Lei 8.429/1992|False
+11|Prova 1 - Conhecimentos Gerais|DIREITO ADMINISTRATIVO I|Responsabilidade do Estado|Evolucao, fundamentos, teorias subjetivas e objetivas; responsabilidade por atos da administracao; reparacao|False
+12|Prova 1 - Conhecimentos Gerais|DIREITO ADMINISTRATIVO I|Legislacao estadual|Lei 6.745/1985 (Estatuto dos Servidores); Portaria SEF 006/2012 (Codigo de Etica); LC 189/2000; LC 442/2009|False
+1|Prova 1 - Conhecimentos Gerais|DIREITO CIVIL, EMPRESARIAL E PENAL|Direito civil - bases|Lei: vigencia; aplicacao e conflitos no tempo e espaco; integracao e interpretacao; principios juridicos; LINDB|False
+2|Prova 1 - Conhecimentos Gerais|DIREITO CIVIL, EMPRESARIAL E PENAL|Direito civil - pessoas e bens|Pessoas naturais e juridicas; direitos de personalidade; associacoes; fundacoes; domicilio; bens|False
+3|Prova 1 - Conhecimentos Gerais|DIREITO CIVIL, EMPRESARIAL E PENAL|Direito civil - fatos e negocios|Fatos juridicos; negocio juridico; atos juridicos licitos e ilicitos; prescricao e decadencia|False
+4|Prova 1 - Conhecimentos Gerais|DIREITO CIVIL, EMPRESARIAL E PENAL|Direito civil - obrigacoes e contratos|Modalidades de obrigacoes; contratos em geral; extincao do contrato; compra e venda; doacao; atos unilaterais; titulos de credito; responsabilidade civil|False
+5|Prova 1 - Conhecimentos Gerais|DIREITO CIVIL, EMPRESARIAL E PENAL|Direito civil - coisas, familia e sucessoes|Direito das coisas; direito de familia; direito patrimonial; direito das sucessoes|False
+6|Prova 1 - Conhecimentos Gerais|DIREITO CIVIL, EMPRESARIAL E PENAL|Direito empresarial|Empresa, empresario, registro, nome empresarial, prepostos, escrituracao; sociedades; microempresa e EPP; desconsideracao; Lei 6.404/1976; LC 123/2006; Lei 11.101/2005|False
+7|Prova 1 - Conhecimentos Gerais|DIREITO CIVIL, EMPRESARIAL E PENAL|Direito penal|Lei penal no tempo e espaco; crime: conceito, elementos, causalidade, tipicidade, ilicitude, culpabilidade, dolo e culpa; extincao da punibilidade; crimes contra a Administracao Publica; Lei 8.137/1990|False
+1|Prova 2 - Conhecimentos Basicos|CONTABILIDADE GERAL|Estrutura conceitual e patrimonio|Estrutura conceitual CFC; patrimonio; equacao fundamental; fatos contabeis e variacoes patrimoniais; sistema de contas|False
+2|Prova 2 - Conhecimentos Basicos|CONTABILIDADE GERAL|Escrituracao|Conceito e metodos; partidas dobradas; lancamento contabil; processos; regimes de caixa e competencia|False
+3|Prova 2 - Conhecimentos Basicos|CONTABILIDADE GERAL|Ativos e passivos|Ativos: estrutura, classificacao, avaliacao, registros e evidencia; passivos: conceitos, estrutura, classificacao e avaliacao|False
+4|Prova 2 - Conhecimentos Basicos|CONTABILIDADE GERAL|Patrimonio liquido|Capital social; ajustes; acoes em tesouraria; prejuizos; reservas; registros e evidencia|False
+5|Prova 2 - Conhecimentos Basicos|CONTABILIDADE GERAL|Balancete e resultado|Balancete de verificacao; apuracao do resultado; incorporacao e distribuicao; dividendos e juros sobre capital proprio; reservas|False
+6|Prova 2 - Conhecimentos Basicos|CONTABILIDADE GERAL|Operacoes e variacoes|Ganhos e perdas de capital; depreciacao, amortizacao e exaustao; reparo e conservacao; duplicatas descontadas; operacoes financeiras; ajustes a valor presente|False
+7|Prova 2 - Conhecimentos Basicos|CONTABILIDADE GERAL|Receitas e despesas antecipadas|Despesas e receitas antecipadas; folha de pagamento; passivo atuarial; depositos judiciais|False
+8|Prova 2 - Conhecimentos Basicos|CONTABILIDADE GERAL|Demonstracoes contabeis|Conjunto das demonstracoes; BP; DRE; DRA; DMPL; DFC; DVA; Lei 6.404/76 e NBC atualizadas|False
+1|Prova 2 - Conhecimentos Basicos|DIREITO TRIBUTARIO I|Sistema Tributario Nacional|Principios gerais; limitacoes ao poder de tributar; impostos da Uniao, Estados, DF e Municipios; reparticao de receitas|False
+2|Prova 2 - Conhecimentos Basicos|DIREITO TRIBUTARIO I|CTN - normas gerais|Competencia tributaria; legislacao tributaria; vigencia e aplicacao; interpretacao e integracao|False
+3|Prova 2 - Conhecimentos Basicos|DIREITO TRIBUTARIO I|Obrigacao e responsabilidade|Fato gerador; sujeito ativo e passivo; solidariedade; capacidade tributaria; domicilio; responsabilidade de sucessores e terceiros; infracoes|False
+4|Prova 2 - Conhecimentos Basicos|DIREITO TRIBUTARIO I|Credito tributario|Lancamento e modalidades; suspensao; extincao; exclusao; garantias e privilegios; administracao tributaria|False
+5|Prova 2 - Conhecimentos Basicos|DIREITO TRIBUTARIO I|Legislacao complementar|LC 87/1996; LC 24/1975; LC 105/2001; LC 123/2006; LC 116/2003; LC 160/2017|False
+1|Prova 2 - Conhecimentos Basicos|LEGISLACAO TRIBUTARIA DE SANTA CATARINA I|ICMS|Lei 10.297/1996; RICMS-SC Decreto 2.870/2001 e anexos|False
+2|Prova 2 - Conhecimentos Basicos|LEGISLACAO TRIBUTARIA DE SANTA CATARINA I|ITCMD|Lei 13.136/2004; RITCMD-SC Decreto 2.884/2004|False
+3|Prova 2 - Conhecimentos Basicos|LEGISLACAO TRIBUTARIA DE SANTA CATARINA I|IPVA|Lei 7.543/1988; RIPVA-SC Decreto 2.993/1989|False
+4|Prova 2 - Conhecimentos Basicos|LEGISLACAO TRIBUTARIA DE SANTA CATARINA I|Taxas|Lei 7.541/1988; Regulamento das Taxas Decreto 3.127/1989|False
+5|Prova 2 - Conhecimentos Basicos|LEGISLACAO TRIBUTARIA DE SANTA CATARINA I|Normas gerais|Lei 3.938/1966; RNGDT-SC Decreto 22.586/1984|False
+6|Prova 2 - Conhecimentos Basicos|LEGISLACAO TRIBUTARIA DE SANTA CATARINA I|Infractions e penalidades|Lei 5.983/1981|False
+7|Prova 2 - Conhecimentos Basicos|LEGISLACAO TRIBUTARIA DE SANTA CATARINA I|Resolucoes do Senado|Res. 22/1989 e Res. 13/2012 (aliquotas interestaduais)|False
+8|Prova 2 - Conhecimentos Basicos|LEGISLACAO TRIBUTARIA DE SANTA CATARINA I|Ajuste SINIEF|Ajuste SINIEF 19/2012; Decreto 1.319/2012|False
+9|Prova 2 - Conhecimentos Basicos|LEGISLACAO TRIBUTARIA DE SANTA CATARINA I|Tribunal Administrativo Tributario|LC 465/2009; Regimento Interno Decreto 3.114/2010|False
+10|Prova 2 - Conhecimentos Basicos|LEGISLACAO TRIBUTARIA DE SANTA CATARINA I|Direitos e deveres do contribuinte|LC 313/2005|False
+1|Prova 3 - A01 Auditoria e Fiscalizacao|AUDITORIA TRIBUTARIA|Base normativa|Principios de contabilidade; Resolucao CFC 1.282/2010; NBC TA e NBC PA; NBC TA 530|False
+2|Prova 3 - A01 Auditoria e Fiscalizacao|AUDITORIA TRIBUTARIA|Procedimentos e testes|Testes de observancia e substantivos; subavaliacao e superavaliacao; evidencias e procedimentos de auditoria|False
+3|Prova 3 - A01 Auditoria e Fiscalizacao|AUDITORIA TRIBUTARIA|Fraudes e demonstracoes|Identificacao de fraudes na escrita contabil; demonstracoes contabeis sujeitas a auditoria|False
+4|Prova 3 - A01 Auditoria e Fiscalizacao|AUDITORIA TRIBUTARIA|Auditoria no ativo|Ativo circulante e nao circulante; fluxo de caixa; saldo credor; suprimentos; aquisicoes sem origem; baixa ficticia; superavaliacao de estoques; realizavel a longo prazo; investimentos; imobilizado; intangivel|False
+5|Prova 3 - A01 Auditoria e Fiscalizacao|AUDITORIA TRIBUTARIA|Auditoria no passivo e PL|Passivo circulante e nao circulante; passivos ficticios; passivos pagos nao baixados; patrimonio liquido; aumento de capital; reservas; subvencoes|False
+6|Prova 3 - A01 Auditoria e Fiscalizacao|AUDITORIA TRIBUTARIA|Resultado e escrita fiscal|Receitas e despesas; ocultacao de receitas; superavaliacao de custos; fraudes e erros na escrita fiscal|False
+7|Prova 3 - A01 Auditoria e Fiscalizacao|AUDITORIA TRIBUTARIA|EFD e NFe|Auditoria na EFD e NFe; testes nos registros; divergencias fiscais; credito de ICMS; aliquota e base de calculo; substituicao tributaria; operacoes de importacao|False
+8|Prova 3 - A01 Auditoria e Fiscalizacao|AUDITORIA TRIBUTARIA|Controle e infracoes|Controle e fiscalizacao do imposto (arts. 47 a 49-A da Lei 10.297/1996); infracoes (arts. 51 a 97 da Lei 10.297/1996)|False
+9|Prova 3 - A01 Auditoria e Fiscalizacao|AUDITORIA TRIBUTARIA|Sigilo bancario|LC 105/2001|False
+1|Prova 3 - A01 Auditoria e Fiscalizacao|CONTABILIDADE AVANCADA E DE CUSTOS|Contabilidade avancada|Provisoes e contingencias; politicas contabeis; participacoes societarias; equivalencia patrimonial; conversao de demonstracoes; reorganizacao societaria; goodwill e desagio; impairment; debentures; arrendamento mercantil; ativo nao circulante mantido para venda; intangiveis; valor justo; ajuste a valor presente; subvencoes|False
+2|Prova 3 - A01 Auditoria e Fiscalizacao|CONTABILIDADE AVANCADA E DE CUSTOS|Contabilidade de custos|Conceitos e classificacoes; sistemas e metodos de custeio; custeio por absorcao e variavel; materiais e mao de obra; custos indiretos; rateio; custeio por ordem e processo; producao conjunta; coprodutos e sucatas; margem de contribuicao; ponto de equilibrio; ABC|False
+1|Prova 3 - A01 Auditoria e Fiscalizacao|LEGISLACAO TRIBUTARIA DE SANTA CATARINA II|RICMS-SC e anexos|Lei 10.297/1996; RICMS-SC Decreto 2.870/2001; Anexo 1-A, 2, 3, 5, 6, 9 e 11|False
+2|Prova 3 - A01 Auditoria e Fiscalizacao|LEGISLACAO TRIBUTARIA DE SANTA CATARINA II|Normas gerais e TAT|Lei 3.938/1966 e Decreto 22.586/1984; LC 465/2009 e Decreto 3.114/2010|False
+1|Prova 3 - A01 Auditoria e Fiscalizacao|TI APLICADA A AUDITORIA TRIBUTARIA|SGBD e modelagem|SGBD; modelo relacional; entidades, atributos, relacionamentos e cardinalidade; chaves primarias e estrangeiras|False
+2|Prova 3 - A01 Auditoria e Fiscalizacao|TI APLICADA A AUDITORIA TRIBUTARIA|SQL basico|Consulta, WHERE, operadores logicos, LIKE, IN, ordenacao, agrupamento e joins|False
+3|Prova 3 - A01 Auditoria e Fiscalizacao|TI APLICADA A AUDITORIA TRIBUTARIA|EFD e NFe|Estrutura da EFD ICMS/IPI v2.0.22 e XML NFe v6.0; relacionamentos entre registros 0000, 0150, 0200, 0220, C100, C170, C176, C195, C197, C400, C405, C420, C425, Blocos E e H, e grupos B, C, D, H, I, M, N e W|False
+4|Prova 3 - A01 Auditoria e Fiscalizacao|TI APLICADA A AUDITORIA TRIBUTARIA|DW e BI|Data Warehousing, Data Mining e Business Intelligence|False
+3|Prova 3 - B02 Gestao Tributaria|LEGISLACAO TRIBUTARIA DE SANTA CATARINA II|RICMS-SC e anexos|Lei 10.297/1996; RICMS-SC Decreto 2.870/2001; Anexos 1-A, 2, 3, 5 e 6|False
+4|Prova 3 - B02 Gestao Tributaria|LEGISLACAO TRIBUTARIA DE SANTA CATARINA II|ITCMD e IPVA|Lei 13.136/2004 e Decreto 2.884/2004; Lei 7.543/1988 e Decreto 2.993/1989|False
+5|Prova 3 - B02 Gestao Tributaria|LEGISLACAO TRIBUTARIA DE SANTA CATARINA II|Taxas e normas gerais|Lei 7.541/1988 e Decreto 3.127/1989; Lei 3.938/1966 e Decreto 22.586/1984|False
+6|Prova 3 - B02 Gestao Tributaria|LEGISLACAO TRIBUTARIA DE SANTA CATARINA II|Tribunal Administrativo Tributario|LC 465/2009 e Decreto 3.114/2010|False
+1|Prova 3 - B02 Gestao Tributaria|DIREITO TRIBUTARIO II|Fundamentos e fontes|Estado e poder de tributar; conceito, fontes e principios; relacao com direito privado; jurisprudencia do STF|False
+2|Prova 3 - B02 Gestao Tributaria|DIREITO TRIBUTARIO II|Norma tributaria e legalidade|Natureza, especies, vigencia e aplicacao; interpretacao e integracao; legalidade tributaria|False
+3|Prova 3 - B02 Gestao Tributaria|DIREITO TRIBUTARIO II|Obrigacao, credito e responsabilidade|Obrigacao tributaria; sujeitos; solidariedade; credito tributario; lancamento; revisao; suspensao; extincao; exclusao; prescricao e decadencia; repeticao do indebito; responsabilidade|False
+4|Prova 3 - B02 Gestao Tributaria|DIREITO TRIBUTARIO II|Garantias e administracao|Garantias e privilegios; fiscalizacao; divida ativa; certidoes; cadastro; sigilo fiscal|False
+5|Prova 3 - B02 Gestao Tributaria|DIREITO TRIBUTARIO II|Sistema Tributario Nacional|Principios gerais; limitacoes; impostos; reparticao; imunidades; modulacao e coisa julgada em materia tributaria|False
+6|Prova 3 - B02 Gestao Tributaria|DIREITO TRIBUTARIO II|Politica fiscal e interpretacao|Politica fiscal; abuso de formas; interpretacao economica do direito tributario|False
+7|Prova 3 - B02 Gestao Tributaria|DIREITO TRIBUTARIO II|Legislacao complementar|LC 87/1996; LC 24/1975; LC 105/2001; LC 123/2006; LC 116/2003; LC 160/2017|False
+1|Prova 3 - B02 Gestao Tributaria|DIREITO PROCESSUAL TRIBUTARIO|Principios e processo administrativo|Principios: legalidade, igualdade, oficialidade, formalismo moderado, verdade material, devido processo, contraditorio, ampla defesa, presuncao de legitimidade e preclusao; processo administrativo tributario em SC|False
+2|Prova 3 - B02 Gestao Tributaria|DIREITO PROCESSUAL TRIBUTARIO|Processo administrativo em SC|LC 465/2009 e Decreto 3.114/2010; LC 313/2005; consulta: Lei 3.938/1966, Decreto 22.586/1984 e Portaria SEF 226/2001|False
+3|Prova 3 - B02 Gestao Tributaria|DIREITO PROCESSUAL TRIBUTARIO|Processo judicial tributario|Acao declaratoria, anulacao, mandado de seguranca, repeticao de indebito, consignacao, embargos a execucao fiscal, excecao de pre-executividade, medida cautelar fiscal, recursos; CTN; LEF 6.830/1980; LMS 12.016/2009|False
+1|Prova 3 - B02 Gestao Tributaria|DIREITO PROCESSUAL CIVIL|Teoria geral e normas|Direitos processuais fundamentais; disposicoes finais do CPC/2015; politica de tratamento adequado; funcao jurisdicional; cooperacao|False
+2|Prova 3 - B02 Gestao Tributaria|DIREITO PROCESSUAL CIVIL|Acoes e pressupostos|Teoria da acao; pressupostos processuais; competencia; sujeitos do processo; deveres e responsabilidade por dano processual; desconsideracao da personalidade juridica|False
+3|Prova 3 - B02 Gestao Tributaria|DIREITO PROCESSUAL CIVIL|Atos processuais|Processo eletronico; tempo e lugar; prazos; comunicacoes; citacao; cartas; intimacoes; nulidades; preclusao; cognicao|False
+4|Prova 3 - B02 Gestao Tributaria|DIREITO PROCESSUAL CIVIL|Tutela provisoria e provas|Tutela provisoria contra a Fazenda Publica; teoria geral da prova; meios de prova; prova ilicita; onus da prova; procedimento probatorio|False
+5|Prova 3 - B02 Gestao Tributaria|DIREITO PROCESSUAL CIVIL|Recursos e execucao|Teoria geral dos recursos e recursos em especie; execucao em geral; execucao contra a Fazenda Publica; embargos e defesas|False
+6|Prova 3 - B02 Gestao Tributaria|DIREITO PROCESSUAL CIVIL|Mandado de seguranca|Lei 12.016/2009|False
+1|Prova 3 - B02 Gestao Tributaria|DIREITO CIVIL E EMPRESARIAL II|Direito civil|Lei e LINDB; pessoas naturais e juridicas; bens; fatos juridicos; negocio juridico; atos licitos e ilicitos; prescricao e decadencia; obrigacoes e contratos; compra e venda; doacao; atos unilaterais; titulos de credito; responsabilidade civil; direito das coisas; familia; sucessoes|False
+2|Prova 3 - B02 Gestao Tributaria|DIREITO CIVIL E EMPRESARIAL II|Direito empresarial|Empresa e empresario; registro; MEI e pequeno empresario; EIRELI; sociedades; desconsideracao; sociedade simples e limitada; sociedades cooperativas; dissolucao e transformacao; estabelecimento; nome empresarial; escrituracao; sociedade anonima; Lei 13.303/2016; Lei 11.101/2005; contratos empresariais|False
+1|Prova 3 - B02 Gestao Tributaria|DIREITO ADMINISTRATIVO II E CONSTITUCIONAL II|Direito administrativo II|Conteudo de Direito Administrativo I; Lei 6.745/1985; Portaria SEF 006/2012; LC 189/2000; LC 442/2009|False
+2|Prova 3 - B02 Gestao Tributaria|DIREITO ADMINISTRATIVO II E CONSTITUCIONAL II|Direito constitucional II|Conteudo de Direito Constitucional I; Constituicao Estadual de Santa Catarina|False
+7|Prova 3 - C03 Tecnologia da Informacao|LEGISLACAO TRIBUTARIA DE SANTA CATARINA II|Aspectos legais|Lei 10.297/1996; RICMS-SC Decreto 2.870/2001; Anexos 1-A, 3, 5, 6, 9 e 11; Lei 3.938/1966; Decreto 22.586/1984; Manual NFe v6.0; Guia Pratico EFD ICMS IPI v2.0.22; LC 465/2009 e Decreto 3.114/2010|False
+1|Prova 3 - C03 Tecnologia da Informacao|TECNOLOGIAS DA INFORMACAO|Programacao e engenharia|Programacao e logica em C#; .NET Framework; algoritmos; estruturas de dados; OO; programacao funcional e estruturada; ASP.NET; JavaScript, HTML5 e CSS3; Web services REST, SOAP e WebApi; refactoring|False
+2|Prova 3 - C03 Tecnologia da Informacao|TECNOLOGIAS DA INFORMACAO|Teste e qualidade|Testes unitarios, de modulo, integracao; TDD; integracao continua; controle de versao|False
+3|Prova 3 - C03 Tecnologia da Informacao|TECNOLOGIAS DA INFORMACAO|Requisitos|Requisitos funcionais e nao funcionais; elicitacao; gerenciamento; especificacao; validacao|False
+4|Prova 3 - C03 Tecnologia da Informacao|TECNOLOGIAS DA INFORMACAO|Banco de dados Oracle|Projeto de BD; MER; Oracle 12c e 11g; PL/SQL; DML e DDL; acesso a dados; deadlock e performance; otimizacao de queries; procedimentos, funcoes, triggers, views, pacotes; seguranca|False
+5|Prova 3 - C03 Tecnologia da Informacao|TECNOLOGIAS DA INFORMACAO|Ciencia de dados e BI|Data Warehouse, OLAP, Data Mining, ETL e BI; big data; conceitos e estrategias|False
+6|Prova 3 - C03 Tecnologia da Informacao|TECNOLOGIAS DA INFORMACAO|Seguranca da informacao|CIA e autenticidade; classificacao; seguranca fisica e logica; seguranca web; criptografia; certificados digitais; hash e autenticacao; criptografia simetrica e assimetrica|False
+7|Prova 3 - C03 Tecnologia da Informacao|TECNOLOGIAS DA INFORMACAO|Redes e infraestrutura|Redes de computadores; OSI e TCP/IP; cabeamento; Wi-Fi; HTTP, HTTPS, TCP, UDP, IP; interconexao; servidores web e proxy; DNS; Windows Server e Linux; interoperabilidade|False
+8|Prova 3 - C03 Tecnologia da Informacao|TECNOLOGIAS DA INFORMACAO|Cloud e virtualizacao|Cloud computing; virtualizacao; administracao e seguranca; fundamentos de DevOps|False
